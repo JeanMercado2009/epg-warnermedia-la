@@ -6,116 +6,41 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260825222900 -0500" stop="20260825224500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">En una era distante, el hechicero Evergreen busca salvar el mundo.</desc>
-  </programme>
-  <programme start="20260825224500 -0500" stop="20260825225700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Finn y Jake persiguen a un "Triturador" que causa estragos, pero Jake sospecha que él mismo podría ser el culpable.</desc>
-  </programme>
-  <programme start="20260825225700 -0500" stop="20260825230800 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Los trabajadores del parque quieren comprarle una taza especial a Benson.</desc>
-  </programme>
-  <programme start="20260825230800 -0500" stop="20260825232100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Mordecai y Rigby salen a buscar una billetera.</desc>
-  </programme>
-  <programme start="20260825232100 -0500" stop="20260825233200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Rigby se gana una cama tamaño king size y arroja su cama de trampolín a la basura. Pero cuando se da cuenta de que no puede dormir sin su trampolín, debe atravesar un intrincado basural para encontrarlo.</desc>
-  </programme>
-  <programme start="20260825233200 -0500" stop="20260825234600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Luego de ir a una fiesta extravagante la noche anterior con Margaret, Mordecai está más enamorado de ella que antes. Mientras sale a dar una vuelta en su carro de golf, Mordecai se sienta encima de su teléfono, marca el número de Margaret y deja grabada en su contestadora una canción sobre sus sentimientos hacia ella. Cuando se entera, busca el teléfono de Margaret y trata de borrar el mensaje.</desc>
-  </programme>
-  <programme start="20260825234600 -0500" stop="20260825235700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Mordecai y Rigby deben limpiar su habitación.</desc>
-  </programme>
-  <programme start="20260825235700 -0500" stop="20260826000900 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Los Osos encuentran a Chloe en la biblioteca, agotada después de haber estudiado todo el día para un examen. Los Osos se quedan para ayudarla a estudiar, pero estorban más de lo que ayudan.</desc>
-  </programme>
-  <programme start="20260826000900 -0500" stop="20260826002200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Una pandilla de niños revoltosos adopta a Polar bebé.</desc>
-  </programme>
   <programme start="20260826002200 -0500" stop="20260826003300 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Pardo presenta la precuela de su película de Crowbar Jones a Nom Nom, con la esperanza de que acepte actuar en la película.</desc>
-  </programme>
-  <programme start="20260826002900 -0300" stop="20260826004100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
   </programme>
   <programme start="20260826003300 -0500" stop="20260826004700 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Panda comienza a sufrir de fobia a los gérmenes y decide vivir el resto de su vida en una burbuja.</desc>
   </programme>
-  <programme start="20260826004100 -0300" stop="20260826005200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">ALGUMAS PARTES DELES</sub-title>
-    <desc lang="pt">Mutano encontra uma caixa de coisas legais, coletadas em missões no decorrer dos anos - incluindo o prisma que dividiu Ravena em cinco. Robin decide separar cada Titã com o prisma, para escolher somente as melhores partes e formar uma equipe ideal de luta contra o crime.</desc>
-  </programme>
   <programme start="20260826004700 -0500" stop="20260826005800 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Tabes y Charlie se unen para encontrar a Kirk, el perro perdido de Tabes.</desc>
-  </programme>
-  <programme start="20260826005200 -0300" stop="20260826010300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
   </programme>
   <programme start="20260826005800 -0500" stop="20260826011000 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Gumball y Darwin ayudan a Anais a rescatar su muñeca, que está en manos de Tina Rex.</desc>
   </programme>
-  <programme start="20260826010300 -0300" stop="20260826011500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">OS SPINOFFS</sub-title>
-    <desc lang="pt">Rob cria uma série de programas e formatos baseados em Elmore para substituir Gumball.</desc>
-  </programme>
   <programme start="20260826011000 -0500" stop="20260826012400 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Gumball se pone celoso cuando Darwin descubre un talento musical oculto... y podría no ser el único.</desc>
-  </programme>
-  <programme start="20260826011500 -0300" stop="20260826012700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A CAIXA</sub-title>
-    <desc lang="pt">Uma encomenda misteriosa aparece na cassa dos Wattersons e eles se esforçam para não abri-la.</desc>
   </programme>
   <programme start="20260826012400 -0500" stop="20260826013600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">En un intento por alegrarle el día a Nicole, los chicos se ocupan de su lista de tareas.</desc>
   </programme>
-  <programme start="20260826012700 -0300" stop="20260826014000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O GENIO</sub-title>
-    <desc lang="pt">Darwin é enviado a um instituto governamental para gênios. Sério.</desc>
-  </programme>
   <programme start="20260826013600 -0500" stop="20260826014800 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">La familia tiene que dejar de hacer cosas estúpidas para impedir que Anaís entre en coma por darse tantas palmadas faciales en señal de exasperación.</desc>
-  </programme>
-  <programme start="20260826014000 -0300" stop="20260826015200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O CAIPIRA</sub-title>
-    <desc lang="pt">Cobiçando seu estilo de vida rústico, Gumball convida Batata para ensinar aos Wattersons como viver como um tubérculo.</desc>
   </programme>
   <programme start="20260826014800 -0500" stop="20260826020200 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Gumball intenta proteger a Darwin de Carrie, su inapropiada novia fantasma.</desc>
   </programme>
-  <programme start="20260826015200 -0300" stop="20260826020600 -0300" channel="CNLA_BR.br">
-    <title lang="pt" />
-  </programme>
   <programme start="20260826020200 -0500" stop="20260826021400 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Gumball y Darwin tratan de entender el mensaje en beatbox urgente de Juke, ¡¿pero por qué simplemente no habla en español?!</desc>
-  </programme>
-  <programme start="20260826020600 -0300" stop="20260826021600 -0300" channel="CNLA_BR.br">
-    <title lang="pt" />
   </programme>
   <programme start="20260826021400 -0500" stop="20260826022600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
