@@ -7247,4 +7247,781 @@
   <programme start="20260911055600 -0400" stop="20260911060000 -0400" channel="WARNER_VE.ve">
     <title lang="es">TNT BUZZ</title>
   </programme>
+  <programme start="20260911060000 -0300" stop="20260911062500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Corte Nocturna</title>
+    <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
+  </programme>
+  <programme start="20260911060000 -0300" stop="20260911063500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">COBRA KAI: SEASON 3</title>
+    <sub-title lang="pt">Vai ter que pagar</sub-title>
+    <desc lang="pt">A má reputação de Daniel atrapalha as vendas e ele recebe uma oferta de compra. Johnny tenta arrecadar dinheiro para a cirurgia de Miguel.</desc>
+  </programme>
+  <programme start="20260911060000 -0400" stop="20260911063700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260911060000 -0400" stop="20260911060700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260911060000 -0500" stop="20260911062400 -0500" channel="WARNER_CO.co">
+    <title lang="es">Corte Nocturna</title>
+    <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
+  </programme>
+  <programme start="20260911060000 -0500" stop="20260911063700 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260911060000 -0600" stop="20260911062400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Corte Nocturna</title>
+    <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
+  </programme>
+  <programme start="20260911060700 -0400" stop="20260911064600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260911062400 -0500" stop="20260911065400 -0500" channel="WARNER_CO.co">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+  </programme>
+  <programme start="20260911062400 -0600" stop="20260911070000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260911062500 -0300" stop="20260911070100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260911063500 -0300" stop="20260911090900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">A Origem</title>
+    <desc lang="pt">Em um mundo onde é possível entrar na mente humana, Cobb está entre os melhores na arte de roubar segredos valiosos do inconsciente, durante o estado de sono. Além disto ele é um fugitivo, pois está impedido de retornar aos Estados Unidos devido à morte de Mal. Mas agora foi-lhe oferecida uma oportunidade para se redimir. Um último trabalho pode devolver-lhe a sua antiga vida. Em vez do assalto perfeito, Cobb e a sua equipe de especialistas tem que fazer exatamente o inverso: instalar uma ideia na mente de alguém. Se tiverem sucesso, poderá ser o crime perfeito.</desc>
+  </programme>
+  <programme start="20260911063700 -0400" stop="20260911070900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+  </programme>
+  <programme start="20260911063700 -0500" stop="20260911070700 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+  </programme>
+  <programme start="20260911064600 -0400" stop="20260911071600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+  </programme>
+  <programme start="20260911065400 -0500" stop="20260911071800 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911070000 -0600" stop="20260911073400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+  </programme>
+  <programme start="20260911070100 -0300" stop="20260911072500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911070700 -0500" stop="20260911073000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911070900 -0400" stop="20260911073700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911071600 -0400" stop="20260911074000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911071800 -0500" stop="20260911074300 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911072500 -0300" stop="20260911074900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911073000 -0500" stop="20260911075300 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911073400 -0600" stop="20260911074400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260911073700 -0400" stop="20260911080300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911074000 -0400" stop="20260911080600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911074300 -0500" stop="20260911080900 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911074400 -0600" stop="20260911074600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260911074600 -0600" stop="20260911080900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911074900 -0300" stop="20260911081300 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911075300 -0500" stop="20260911081700 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911080300 -0400" stop="20260911082900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911080600 -0400" stop="20260911083100 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911080900 -0500" stop="20260911083400 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911080900 -0600" stop="20260911083300 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911081300 -0300" stop="20260911104800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Diamante de Sangre</title>
+    <desc lang="es">Un contrabandista, un pescador y la obsesión por encontrar una piedra preciosa que les cambiará la vida. Suspenso, acción y drama en Diamante de Sangre,  nominada a cinco premios Oscar® y protagonizada por Leonardo DiCaprio. Danny Archer (DiCaprio) es un mercenario que desea dejar la mala vida y  cree que podrá lograrlo  si encuentra un valioso diamante. Junto con Solomon Vandy (Djimon Hounsou) se embarca en esta peligrosa aventura por Sierra Leona, en donde conocerá a Maddy Bowen (Jennifer Connelly), una reportera que investiga la venta ilegal de diamantes. Violencia, corrupción  y altas dosis de adrenalina en un film emocionante sobre la guerrilla, el tráfico de armas y la crueldad que vive gran parte del continente africano.</desc>
+  </programme>
+  <programme start="20260911081700 -0500" stop="20260911083900 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911082900 -0400" stop="20260911111100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Diamante de Sangre</title>
+    <desc lang="es">Un contrabandista, un pescador y la obsesión por encontrar una piedra preciosa que les cambiará la vida. Suspenso, acción y drama en Diamante de Sangre,  nominada a cinco premios Oscar® y protagonizada por Leonardo DiCaprio. Danny Archer (DiCaprio) es un mercenario que desea dejar la mala vida y  cree que podrá lograrlo  si encuentra un valioso diamante. Junto con Solomon Vandy (Djimon Hounsou) se embarca en esta peligrosa aventura por Sierra Leona, en donde conocerá a Maddy Bowen (Jennifer Connelly), una reportera que investiga la venta ilegal de diamantes. Violencia, corrupción  y altas dosis de adrenalina en un film emocionante sobre la guerrilla, el tráfico de armas y la crueldad que vive gran parte del continente africano.</desc>
+  </programme>
+  <programme start="20260911083100 -0400" stop="20260911085500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911083300 -0600" stop="20260911085700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911083400 -0500" stop="20260911111400 -0500" channel="WARNER_CO.co">
+    <title lang="es">Diamante de Sangre</title>
+    <desc lang="es">Un contrabandista, un pescador y la obsesión por encontrar una piedra preciosa que les cambiará la vida. Suspenso, acción y drama en Diamante de Sangre,  nominada a cinco premios Oscar® y protagonizada por Leonardo DiCaprio. Danny Archer (DiCaprio) es un mercenario que desea dejar la mala vida y  cree que podrá lograrlo  si encuentra un valioso diamante. Junto con Solomon Vandy (Djimon Hounsou) se embarca en esta peligrosa aventura por Sierra Leona, en donde conocerá a Maddy Bowen (Jennifer Connelly), una reportera que investiga la venta ilegal de diamantes. Violencia, corrupción  y altas dosis de adrenalina en un film emocionante sobre la guerrilla, el tráfico de armas y la crueldad que vive gran parte del continente africano.</desc>
+  </programme>
+  <programme start="20260911083900 -0500" stop="20260911111000 -0500" channel="WARNER_AN.co">
+    <title lang="es">Diamante de Sangre</title>
+    <desc lang="es">Un contrabandista, un pescador y la obsesión por encontrar una piedra preciosa que les cambiará la vida. Suspenso, acción y drama en Diamante de Sangre,  nominada a cinco premios Oscar® y protagonizada por Leonardo DiCaprio. Danny Archer (DiCaprio) es un mercenario que desea dejar la mala vida y  cree que podrá lograrlo  si encuentra un valioso diamante. Junto con Solomon Vandy (Djimon Hounsou) se embarca en esta peligrosa aventura por Sierra Leona, en donde conocerá a Maddy Bowen (Jennifer Connelly), una reportera que investiga la venta ilegal de diamantes. Violencia, corrupción  y altas dosis de adrenalina en un film emocionante sobre la guerrilla, el tráfico de armas y la crueldad que vive gran parte del continente africano.</desc>
+  </programme>
+  <programme start="20260911085500 -0400" stop="20260911112700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Diamante de Sangre</title>
+    <desc lang="es">Un contrabandista, un pescador y la obsesión por encontrar una piedra preciosa que les cambiará la vida. Suspenso, acción y drama en Diamante de Sangre,  nominada a cinco premios Oscar® y protagonizada por Leonardo DiCaprio. Danny Archer (DiCaprio) es un mercenario que desea dejar la mala vida y  cree que podrá lograrlo  si encuentra un valioso diamante. Junto con Solomon Vandy (Djimon Hounsou) se embarca en esta peligrosa aventura por Sierra Leona, en donde conocerá a Maddy Bowen (Jennifer Connelly), una reportera que investiga la venta ilegal de diamantes. Violencia, corrupción  y altas dosis de adrenalina en un film emocionante sobre la guerrilla, el tráfico de armas y la crueldad que vive gran parte del continente africano.</desc>
+  </programme>
+  <programme start="20260911085700 -0600" stop="20260911092000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260911090900 -0300" stop="20260911093200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">FLAVING' AND THE MAVIN' , THE</sub-title>
+    <desc lang="pt">Charlie começa a cortejar a recepcionista de Alan e este último teme as conseqüências.</desc>
+  </programme>
+  <programme start="20260911092000 -0600" stop="20260911114800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Diamante de Sangre</title>
+    <desc lang="es">Un contrabandista, un pescador y la obsesión por encontrar una piedra preciosa que les cambiará la vida. Suspenso, acción y drama en Diamante de Sangre,  nominada a cinco premios Oscar® y protagonizada por Leonardo DiCaprio. Danny Archer (DiCaprio) es un mercenario que desea dejar la mala vida y  cree que podrá lograrlo  si encuentra un valioso diamante. Junto con Solomon Vandy (Djimon Hounsou) se embarca en esta peligrosa aventura por Sierra Leona, en donde conocerá a Maddy Bowen (Jennifer Connelly), una reportera que investiga la venta ilegal de diamantes. Violencia, corrupción  y altas dosis de adrenalina en un film emocionante sobre la guerrilla, el tráfico de armas y la crueldad que vive gran parte del continente africano.</desc>
+  </programme>
+  <programme start="20260911093200 -0300" stop="20260911095600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">A JOCK STRAP IN HELL</sub-title>
+    <desc lang="pt">Ao descobrir que a antiga professora de quinto grau de Jake, a Srta Pasternak, se tornou uma bailarina exótica depois do seu encontro com Charlie, este tenta fazer com que ela recobre o juízo para que recupere seu emprego anterior.</desc>
+  </programme>
+  <programme start="20260911095600 -0300" stop="20260911102000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">IT'S ALWAYS NAZI WEEK</sub-title>
+    <desc lang="pt">Quando Judith coloca Herb para fora de casa, Alan espera reconciliar-se com a ex-exposa, Herb tenta adotar o estilo de vida de solteiro despreocupado e mulherengo de Charlie.</desc>
+  </programme>
+  <programme start="20260911102000 -0300" stop="20260911104500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE BOOTH BABES</sub-title>
+    <desc lang="pt">Max e Caroline viram promotoras para poder ir a uma convenção de videogames sem pagar. Uma vez lá, se surpreendem ao descobrir que um amigo de Han criou os personagens de um videogame inspirado nelas.</desc>
+  </programme>
+  <programme start="20260911104500 -0300" stop="20260911110900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE STORY TELLING SHOW</sub-title>
+    <desc lang="pt">Caroline capta a atenção de um executivo de um estúdio de Hollywood quando conta sua história de vida da riqueza à pobreza em um palco noturno.</desc>
+  </programme>
+  <programme start="20260911104800 -0300" stop="20260911134000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">El Origen</title>
+    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
+  </programme>
+  <programme start="20260911110900 -0300" stop="20260911113200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">YOUNG SHELDON</title>
+    <sub-title lang="pt">A THERAPIST, A COMIC BOOK, AND A BREAKFAST SAUSAGE</sub-title>
+    <desc lang="pt">Depois de engasgar com uma salsicha no café da manhã, Sheldon enfrenta seu medo de alimentos sólidos e descobre as histórias em quadrinhos.</desc>
+  </programme>
+  <programme start="20260911111000 -0500" stop="20260911135500 -0500" channel="WARNER_AN.co">
+    <title lang="es">El Origen</title>
+    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
+  </programme>
+  <programme start="20260911111100 -0400" stop="20260911135700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">El Origen</title>
+    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
+  </programme>
+  <programme start="20260911111400 -0500" stop="20260911135400 -0500" channel="WARNER_CO.co">
+    <title lang="es">El Origen</title>
+    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
+  </programme>
+  <programme start="20260911112700 -0400" stop="20260911140700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">El Origen</title>
+    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
+  </programme>
+  <programme start="20260911113200 -0300" stop="20260911115500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">YOUNG SHELDON</title>
+    <sub-title lang="pt">A SOLAR CALCULATOR, A GAME BALL, AND A CHEERLEADER'S BOSOM</sub-title>
+    <desc lang="pt">Sheldon lida com uma recente popularidade logo após ter utilizado estatísticas para ajudar a uma equipe de futebol.</desc>
+  </programme>
+  <programme start="20260911114800 -0600" stop="20260911142100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">El Origen</title>
+    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
+  </programme>
+  <programme start="20260911115500 -0300" stop="20260911121800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">ZARNECKI INCURSION, THE</sub-title>
+    <desc lang="pt">Quando um hacker entra na conta de jogo online de Sheldon, os rapazes vão em busca do culpado.</desc>
+  </programme>
+  <programme start="20260911121800 -0300" stop="20260911124200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE HERB GARDEN GERMINATION</sub-title>
+    <desc lang="pt">Sheldon e Amy testam seus amigos espalhando uma fofoca, e Howard dá um passo importante no seu relacionamento com Bernadette.</desc>
+  </programme>
+  <programme start="20260911124200 -0300" stop="20260911130400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE AGREEMENT DISSECTION</sub-title>
+    <desc lang="pt">Priya usa seu conhecimento jurídico e critica o contrato de moradia, colocando Sheldon em seu devido lugar.  Enquanto isso, as meninas levam Sheldon para dançar.</desc>
+  </programme>
+  <programme start="20260911130400 -0300" stop="20260911132700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <desc lang="pt">Raj tenta curar seu problema de ansiedade toda vez que fala com mulheres, enquanto Penny usa Bernadette para espionar Leonard e sua namorada.</desc>
+  </programme>
+  <programme start="20260911132700 -0300" stop="20260911134900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE ENGAGEMENT REACTION</sub-title>
+    <desc lang="pt">Quando Howard finalmente conta à sua mãe que está noivo de Bernadette, ela vai parar no hospital.</desc>
+  </programme>
+  <programme start="20260911134000 -0300" stop="20260911160600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Arma Mortal 4</title>
+    <desc lang="es">Un nuevo detective se une a la dupla Riggs-Murtaugh (Mel Gibson-Danny Glover) para combatir el crimen en Los Angeles. Una de las sagas de acción más exitosas de todos los tiempos dirigida por el experto en explosiones, Richard Donner. Entretenimiento asegurado.</desc>
+  </programme>
+  <programme start="20260911134900 -0300" stop="20260911141200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE ROOMATE TRANSMORGRIFICATION</sub-title>
+    <desc lang="pt">No último episódio da quarta temporada, Bernadette recebe seu Ph.D. e os rapazes se divertem lembrando o frágil Wolowitz de que ele é o único da turma sem doutorado. Ao mesmo tempo, Koothrappali passa a dividir o apartamento com Sheldon depois de ouvir Leonard e Priya no quarto, empolgados no meio de uma fantasia a la Star Trek.</desc>
+  </programme>
+  <programme start="20260911135400 -0500" stop="20260911161800 -0500" channel="WARNER_CO.co">
+    <title lang="es">Arma Mortal 4</title>
+    <desc lang="es">Un nuevo detective se une a la dupla Riggs-Murtaugh (Mel Gibson-Danny Glover) para combatir el crimen en Los Angeles. Una de las sagas de acción más exitosas de todos los tiempos dirigida por el experto en explosiones, Richard Donner. Entretenimiento asegurado.</desc>
+  </programme>
+  <programme start="20260911135500 -0500" stop="20260911161500 -0500" channel="WARNER_AN.co">
+    <title lang="es">Arma Mortal 4</title>
+    <desc lang="es">Un nuevo detective se une a la dupla Riggs-Murtaugh (Mel Gibson-Danny Glover) para combatir el crimen en Los Angeles. Una de las sagas de acción más exitosas de todos los tiempos dirigida por el experto en explosiones, Richard Donner. Entretenimiento asegurado.</desc>
+  </programme>
+  <programme start="20260911135700 -0400" stop="20260911161900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Arma Mortal 4</title>
+    <desc lang="es">Un nuevo detective se une a la dupla Riggs-Murtaugh (Mel Gibson-Danny Glover) para combatir el crimen en Los Angeles. Una de las sagas de acción más exitosas de todos los tiempos dirigida por el experto en explosiones, Richard Donner. Entretenimiento asegurado.</desc>
+  </programme>
+  <programme start="20260911140700 -0400" stop="20260911162300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Arma Mortal 4</title>
+    <desc lang="es">Un nuevo detective se une a la dupla Riggs-Murtaugh (Mel Gibson-Danny Glover) para combatir el crimen en Los Angeles. Una de las sagas de acción más exitosas de todos los tiempos dirigida por el experto en explosiones, Richard Donner. Entretenimiento asegurado.</desc>
+  </programme>
+  <programme start="20260911141200 -0300" stop="20260911143700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE BOOTH BABES</sub-title>
+    <desc lang="pt">Max e Caroline viram promotoras para poder ir a uma convenção de videogames sem pagar. Uma vez lá, se surpreendem ao descobrir que um amigo de Han criou os personagens de um videogame inspirado nelas.</desc>
+  </programme>
+  <programme start="20260911142100 -0600" stop="20260911163400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Arma Mortal 4</title>
+    <desc lang="es">Un nuevo detective se une a la dupla Riggs-Murtaugh (Mel Gibson-Danny Glover) para combatir el crimen en Los Angeles. Una de las sagas de acción más exitosas de todos los tiempos dirigida por el experto en explosiones, Richard Donner. Entretenimiento asegurado.</desc>
+  </programme>
+  <programme start="20260911143700 -0300" stop="20260911150100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE STORY TELLING SHOW</sub-title>
+    <desc lang="pt">Caroline capta a atenção de um executivo de um estúdio de Hollywood quando conta sua história de vida da riqueza à pobreza em um palco noturno.</desc>
+  </programme>
+  <programme start="20260911150100 -0300" stop="20260911152500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">FLAVING' AND THE MAVIN' , THE</sub-title>
+    <desc lang="pt">Charlie começa a cortejar a recepcionista de Alan e este último teme as conseqüências.</desc>
+  </programme>
+  <programme start="20260911152500 -0300" stop="20260911155000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">A JOCK STRAP IN HELL</sub-title>
+    <desc lang="pt">Ao descobrir que a antiga professora de quinto grau de Jake, a Srta Pasternak, se tornou uma bailarina exótica depois do seu encontro com Charlie, este tenta fazer com que ela recobre o juízo para que recupere seu emprego anterior.</desc>
+  </programme>
+  <programme start="20260911155000 -0300" stop="20260911161300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">IT'S ALWAYS NAZI WEEK</sub-title>
+    <desc lang="pt">Quando Judith coloca Herb para fora de casa, Alan espera reconciliar-se com a ex-exposa, Herb tenta adotar o estilo de vida de solteiro despreocupado e mulherengo de Charlie.</desc>
+  </programme>
+  <programme start="20260911160600 -0300" stop="20260911180700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Un Jefe en Pañales</title>
+  </programme>
+  <programme start="20260911161300 -0300" stop="20260911163700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">BEST H.O. MONEY CAN BUY</sub-title>
+    <desc lang="pt">Alan tenta se afastar de Judith. Entretanto, Charlie e Herb saem para farrear juntos. Em seguida, Charlie ameaça Jake de inscrevê-lo em uma academia militar para obrigá-lo a fazer os seus deveres de casa.</desc>
+  </programme>
+  <programme start="20260911161500 -0500" stop="20260911181200 -0500" channel="WARNER_AN.co">
+    <title lang="es">Un Jefe en Pañales</title>
+  </programme>
+  <programme start="20260911161800 -0500" stop="20260911181200 -0500" channel="WARNER_CO.co">
+    <title lang="es">Un Jefe en Pañales</title>
+  </programme>
+  <programme start="20260911161900 -0400" stop="20260911181500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Un Jefe en Pañales</title>
+  </programme>
+  <programme start="20260911162300 -0400" stop="20260911181400 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Un Jefe en Pañales</title>
+  </programme>
+  <programme start="20260911163400 -0600" stop="20260911182200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Un Jefe en Pañales</title>
+  </programme>
+  <programme start="20260911163700 -0300" stop="20260911180500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Space Jam: O Jogo do Século</title>
+    <desc lang="pt">Michael Jordan tem que ajudar a turma do Pernalonga a jogar basquete contra um grupo alíenigena que tem um plano que se ganharem, sequestrarão o Pernalonga e seus amigos para entreter um intergaláctico parque de diversões.</desc>
+  </programme>
+  <programme start="20260911180500 -0300" stop="20260911200800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Space Jam: Um Novo Legado</title>
+    <desc lang="pt">Bem-vindo ao Jogo! O campeão da NBA LeBron James e Pernalonga se unem para mais um jogo decisivo. Após LeBron e seu filho Dom serem presos em um espaço digital por uma inteligência artificial, caberá a King James liderar o indisciplinado time Looney Tunes contra a versão digital de uma poderosa equipe de estrelas do basquete e vencer o maior desafio de sua vida.</desc>
+  </programme>
+  <programme start="20260911180700 -0300" stop="20260911194900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Space Jam: El Juego del Siglo</title>
+    <desc lang="es">Pequeñas criaturas del espacio quieren secuestrar a los Looney Tunes para llevar diversion a su aburrido planeta. Bugs Bunny los reta a un juego de basketbol, pero ellos roban los poderes de basketbolistas profesionales y sólo Michael Jordan podrá ayudar a los Looney Tunes a vencer a estos invasores extraterrestres.</desc>
+  </programme>
+  <programme start="20260911181200 -0500" stop="20260911194900 -0500" channel="WARNER_CO.co">
+    <title lang="es">Space Jam: El Juego del Siglo</title>
+    <desc lang="es">Pequeñas criaturas del espacio quieren secuestrar a los Looney Tunes para llevar diversion a su aburrido planeta. Bugs Bunny los reta a un juego de basketbol, pero ellos roban los poderes de basketbolistas profesionales y sólo Michael Jordan podrá ayudar a los Looney Tunes a vencer a estos invasores extraterrestres.</desc>
+  </programme>
+  <programme start="20260911181200 -0500" stop="20260911194900 -0500" channel="WARNER_AN.co">
+    <title lang="es">Space Jam: El Juego del Siglo</title>
+    <desc lang="es">Pequeñas criaturas del espacio quieren secuestrar a los Looney Tunes para llevar diversion a su aburrido planeta. Bugs Bunny los reta a un juego de basketbol, pero ellos roban los poderes de basketbolistas profesionales y sólo Michael Jordan podrá ayudar a los Looney Tunes a vencer a estos invasores extraterrestres.</desc>
+  </programme>
+  <programme start="20260911181400 -0400" stop="20260911194900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Space Jam: El Juego del Siglo</title>
+    <desc lang="es">Pequeñas criaturas del espacio quieren secuestrar a los Looney Tunes para llevar diversion a su aburrido planeta. Bugs Bunny los reta a un juego de basketbol, pero ellos roban los poderes de basketbolistas profesionales y sólo Michael Jordan podrá ayudar a los Looney Tunes a vencer a estos invasores extraterrestres.</desc>
+  </programme>
+  <programme start="20260911181500 -0400" stop="20260911194900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Space Jam: El Juego del Siglo</title>
+    <desc lang="es">Pequeñas criaturas del espacio quieren secuestrar a los Looney Tunes para llevar diversion a su aburrido planeta. Bugs Bunny los reta a un juego de basketbol, pero ellos roban los poderes de basketbolistas profesionales y sólo Michael Jordan podrá ayudar a los Looney Tunes a vencer a estos invasores extraterrestres.</desc>
+  </programme>
+  <programme start="20260911182200 -0600" stop="20260911195400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Space Jam: El Juego del Siglo</title>
+    <desc lang="es">Pequeñas criaturas del espacio quieren secuestrar a los Looney Tunes para llevar diversion a su aburrido planeta. Bugs Bunny los reta a un juego de basketbol, pero ellos roban los poderes de basketbolistas profesionales y sólo Michael Jordan podrá ayudar a los Looney Tunes a vencer a estos invasores extraterrestres.</desc>
+  </programme>
+  <programme start="20260911194900 -0300" stop="20260911220000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Space Jam: Una Nueva Era</title>
+    <desc lang="es">¡Bienvenido al Juego! El campeón de la NBA LeBron James y Bugs Bunny se unen para otro partido decisivo. Cuando LeBron y su hijo son atrapados por una malvada inteligencia artificial, "King James" deberá liderar al indisciplinado equipo de los Looney Tunes contra la versión digital de un poderoso equipo de estrellas del baloncesto y ganar el desafío más importante de su vida.</desc>
+  </programme>
+  <programme start="20260911194900 -0400" stop="20260911220000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Space Jam: Una Nueva Era</title>
+    <desc lang="es">¡Bienvenido al Juego! El campeón de la NBA LeBron James y Bugs Bunny se unen para otro partido decisivo. Cuando LeBron y su hijo son atrapados por una malvada inteligencia artificial, "King James" deberá liderar al indisciplinado equipo de los Looney Tunes contra la versión digital de un poderoso equipo de estrellas del baloncesto y ganar el desafío más importante de su vida.</desc>
+  </programme>
+  <programme start="20260911194900 -0400" stop="20260911220000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Space Jam: Una Nueva Era</title>
+    <desc lang="es">¡Bienvenido al Juego! El campeón de la NBA LeBron James y Bugs Bunny se unen para otro partido decisivo. Cuando LeBron y su hijo son atrapados por una malvada inteligencia artificial, "King James" deberá liderar al indisciplinado equipo de los Looney Tunes contra la versión digital de un poderoso equipo de estrellas del baloncesto y ganar el desafío más importante de su vida.</desc>
+  </programme>
+  <programme start="20260911194900 -0500" stop="20260911220000 -0500" channel="WARNER_CO.co">
+    <title lang="es">Space Jam: Una Nueva Era</title>
+    <desc lang="es">¡Bienvenido al Juego! El campeón de la NBA LeBron James y Bugs Bunny se unen para otro partido decisivo. Cuando LeBron y su hijo son atrapados por una malvada inteligencia artificial, "King James" deberá liderar al indisciplinado equipo de los Looney Tunes contra la versión digital de un poderoso equipo de estrellas del baloncesto y ganar el desafío más importante de su vida.</desc>
+  </programme>
+  <programme start="20260911194900 -0500" stop="20260911220000 -0500" channel="WARNER_AN.co">
+    <title lang="es">Space Jam: Una Nueva Era</title>
+    <desc lang="es">¡Bienvenido al Juego! El campeón de la NBA LeBron James y Bugs Bunny se unen para otro partido decisivo. Cuando LeBron y su hijo son atrapados por una malvada inteligencia artificial, "King James" deberá liderar al indisciplinado equipo de los Looney Tunes contra la versión digital de un poderoso equipo de estrellas del baloncesto y ganar el desafío más importante de su vida.</desc>
+  </programme>
+  <programme start="20260911195400 -0600" stop="20260911220000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Space Jam: Una Nueva Era</title>
+    <desc lang="es">¡Bienvenido al Juego! El campeón de la NBA LeBron James y Bugs Bunny se unen para otro partido decisivo. Cuando LeBron y su hijo son atrapados por una malvada inteligencia artificial, "King James" deberá liderar al indisciplinado equipo de los Looney Tunes contra la versión digital de un poderoso equipo de estrellas del baloncesto y ganar el desafío más importante de su vida.</desc>
+  </programme>
+  <programme start="20260911200800 -0300" stop="20260911203300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">ZARNECKI INCURSION, THE</sub-title>
+    <desc lang="pt">Quando um hacker entra na conta de jogo online de Sheldon, os rapazes vão em busca do culpado.</desc>
+  </programme>
+  <programme start="20260911203300 -0300" stop="20260911205600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE HERB GARDEN GERMINATION</sub-title>
+    <desc lang="pt">Sheldon e Amy testam seus amigos espalhando uma fofoca, e Howard dá um passo importante no seu relacionamento com Bernadette.</desc>
+  </programme>
+  <programme start="20260911205600 -0300" stop="20260911212000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE AGREEMENT DISSECTION</sub-title>
+    <desc lang="pt">Priya usa seu conhecimento jurídico e critica o contrato de moradia, colocando Sheldon em seu devido lugar.  Enquanto isso, as meninas levam Sheldon para dançar.</desc>
+  </programme>
+  <programme start="20260911212000 -0300" stop="20260911214400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <desc lang="pt">Raj tenta curar seu problema de ansiedade toda vez que fala com mulheres, enquanto Penny usa Bernadette para espionar Leonard e sua namorada.</desc>
+  </programme>
+  <programme start="20260911214400 -0300" stop="20260911220600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE ENGAGEMENT REACTION</sub-title>
+    <desc lang="pt">Quando Howard finalmente conta à sua mãe que está noivo de Bernadette, ela vai parar no hospital.</desc>
+  </programme>
+  <programme start="20260911220000 -0300" stop="20260911235600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">¿Qué Pasó Ayer?</title>
+    <desc lang="es">Tres amigos se despiertan tras una despedida de soltero en Las Vegas, sin recuerdos de la noche anterior... y sin saber dónde está el homenajeado. Los tres deberán recorrer la ciudad para encontrar a su amigo antes de la boda.</desc>
+  </programme>
+  <programme start="20260911220000 -0400" stop="20260911235700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">¿Qué Pasó Ayer?</title>
+    <desc lang="es">Tres amigos se despiertan tras una despedida de soltero en Las Vegas, sin recuerdos de la noche anterior... y sin saber dónde está el homenajeado. Los tres deberán recorrer la ciudad para encontrar a su amigo antes de la boda.</desc>
+  </programme>
+  <programme start="20260911220000 -0400" stop="20260911235900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">¿Qué Pasó Ayer?</title>
+    <desc lang="es">Tres amigos se despiertan tras una despedida de soltero en Las Vegas, sin recuerdos de la noche anterior... y sin saber dónde está el homenajeado. Los tres deberán recorrer la ciudad para encontrar a su amigo antes de la boda.</desc>
+  </programme>
+  <programme start="20260911220000 -0500" stop="20260911235900 -0500" channel="WARNER_CO.co">
+    <title lang="es">¿Qué Pasó Ayer?</title>
+    <desc lang="es">Tres amigos se despiertan tras una despedida de soltero en Las Vegas, sin recuerdos de la noche anterior... y sin saber dónde está el homenajeado. Los tres deberán recorrer la ciudad para encontrar a su amigo antes de la boda.</desc>
+  </programme>
+  <programme start="20260911220000 -0500" stop="20260912000000 -0500" channel="WARNER_AN.co">
+    <title lang="es">¿Qué Pasó Ayer?</title>
+    <desc lang="es">Tres amigos se despiertan tras una despedida de soltero en Las Vegas, sin recuerdos de la noche anterior... y sin saber dónde está el homenajeado. Los tres deberán recorrer la ciudad para encontrar a su amigo antes de la boda.</desc>
+  </programme>
+  <programme start="20260911220000 -0600" stop="20260911235400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">¿Qué Pasó Ayer?</title>
+    <desc lang="es">Tres amigos se despiertan tras una despedida de soltero en Las Vegas, sin recuerdos de la noche anterior... y sin saber dónde está el homenajeado. Los tres deberán recorrer la ciudad para encontrar a su amigo antes de la boda.</desc>
+  </programme>
+  <programme start="20260911220600 -0300" stop="20260911223000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE ROOMATE TRANSMORGRIFICATION</sub-title>
+    <desc lang="pt">No último episódio da quarta temporada, Bernadette recebe seu Ph.D. e os rapazes se divertem lembrando o frágil Wolowitz de que ele é o único da turma sem doutorado. Ao mesmo tempo, Koothrappali passa a dividir o apartamento com Sheldon depois de ouvir Leonard e Priya no quarto, empolgados no meio de uma fantasia a la Star Trek.</desc>
+  </programme>
+  <programme start="20260911223000 -0300" stop="20260912001500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Se Beber, Não Case!</title>
+    <desc lang="pt">Três amigos se reúnem em uma despedida de solteiro em Las Vegas e acham que se divertiram. Mas a verdade é que não conseguem se lembrar de muita coisa e estão sofrendo os efeitos colaterais provocados pelo álcool| pelas mulheres e pela farra. Ainda por cima| eles percebem que perderam o noivo! Agora| deverão tentar repassar todo o fim de semana para encontrar o amigo e levá-lo ao seu próprio casamento - mesmo com uma ressaca daquelas!</desc>
+  </programme>
+  <programme start="20260911235400 -0600" stop="20260912001700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260911235600 -0300" stop="20260912002200 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260911235700 -0400" stop="20260912002100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260911235900 -0400" stop="20260912002200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260911235900 -0500" stop="20260912002300 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912000000 -0500" stop="20260912002500 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912001500 -0300" stop="20260912003700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">FLAVING' AND THE MAVIN' , THE</sub-title>
+    <desc lang="pt">Charlie começa a cortejar a recepcionista de Alan e este último teme as conseqüências.</desc>
+  </programme>
+  <programme start="20260912001700 -0600" stop="20260912004000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912002100 -0400" stop="20260912004500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912002200 -0300" stop="20260912004700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912002200 -0400" stop="20260912004500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912002300 -0500" stop="20260912004600 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912002500 -0500" stop="20260912004900 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912003700 -0300" stop="20260912010000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">A JOCK STRAP IN HELL</sub-title>
+    <desc lang="pt">Ao descobrir que a antiga professora de quinto grau de Jake, a Srta Pasternak, se tornou uma bailarina exótica depois do seu encontro com Charlie, este tenta fazer com que ela recobre o juízo para que recupere seu emprego anterior.</desc>
+  </programme>
+  <programme start="20260912004000 -0600" stop="20260912010200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912004500 -0400" stop="20260912010900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912004500 -0400" stop="20260912010800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912004600 -0500" stop="20260912010900 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912004700 -0300" stop="20260912011100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912004900 -0500" stop="20260912011300 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912010000 -0300" stop="20260912012400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">IT'S ALWAYS NAZI WEEK</sub-title>
+    <desc lang="pt">Quando Judith coloca Herb para fora de casa, Alan espera reconciliar-se com a ex-exposa, Herb tenta adotar o estilo de vida de solteiro despreocupado e mulherengo de Charlie.</desc>
+  </programme>
+  <programme start="20260912010200 -0600" stop="20260912012500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912010800 -0400" stop="20260912013100 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912010900 -0400" stop="20260912013200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912010900 -0500" stop="20260912013300 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912011100 -0300" stop="20260912013700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912011300 -0500" stop="20260912013700 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912012400 -0300" stop="20260912014800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">BEST H.O. MONEY CAN BUY</sub-title>
+    <desc lang="pt">Alan tenta se afastar de Judith. Entretanto, Charlie e Herb saem para farrear juntos. Em seguida, Charlie ameaça Jake de inscrevê-lo em uma academia militar para obrigá-lo a fazer os seus deveres de casa.</desc>
+  </programme>
+  <programme start="20260912012500 -0600" stop="20260912014600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912013100 -0400" stop="20260912015200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912013200 -0400" stop="20260912015500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912013300 -0500" stop="20260912015400 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912013700 -0300" stop="20260912020200 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912013700 -0500" stop="20260912015900 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912014600 -0600" stop="20260912020900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912014800 -0300" stop="20260912021000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">PINOCCHIO'S MOUTH</sub-title>
+    <desc lang="pt">A nova namorada de Charlie, Chelsea (estrela convidada Jennifer Taylor) pede que eles passem a noite em sua casa enquanto Alan finge castigar Jake.</desc>
+  </programme>
+  <programme start="20260912015200 -0400" stop="20260912021500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912015400 -0500" stop="20260912021700 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912015500 -0400" stop="20260912021800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912015900 -0500" stop="20260912022200 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912020200 -0300" stop="20260912022400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20260912020900 -0600" stop="20260912023200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912021000 -0300" stop="20260912023200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">MOOCH AT THE BOO, THE</sub-title>
+    <desc lang="pt">Jake desaparece com a filha de um vizinho, um jogador da NFL (interpretado por Michael Clarke Duncan), e Charlie tem que encobri-lo. Enquanto isso, Alan consegue um excelente encontro com a ajuda do carro de Charlie.</desc>
+  </programme>
+  <programme start="20260912021500 -0400" stop="20260912023800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912021700 -0500" stop="20260912024000 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912021800 -0400" stop="20260912024000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912022200 -0500" stop="20260912024500 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912022400 -0300" stop="20260912024600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912023200 -0300" stop="20260912025500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">ZARNECKI INCURSION, THE</sub-title>
+    <desc lang="pt">Quando um hacker entra na conta de jogo online de Sheldon, os rapazes vão em busca do culpado.</desc>
+  </programme>
+  <programme start="20260912023200 -0600" stop="20260912025500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912023800 -0400" stop="20260912030000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912024000 -0400" stop="20260912030300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912024000 -0500" stop="20260912030300 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912024500 -0500" stop="20260912030800 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912024600 -0300" stop="20260912030700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912025500 -0300" stop="20260912031700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE HERB GARDEN GERMINATION</sub-title>
+    <desc lang="pt">Sheldon e Amy testam seus amigos espalhando uma fofoca, e Howard dá um passo importante no seu relacionamento com Bernadette.</desc>
+  </programme>
+  <programme start="20260912025500 -0600" stop="20260912031800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912030000 -0400" stop="20260912032300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912030300 -0400" stop="20260912032600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912030300 -0500" stop="20260912032500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912030700 -0300" stop="20260912032900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912030800 -0500" stop="20260912033000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912031700 -0300" stop="20260912033900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE AGREEMENT DISSECTION</sub-title>
+    <desc lang="pt">Priya usa seu conhecimento jurídico e critica o contrato de moradia, colocando Sheldon em seu devido lugar.  Enquanto isso, as meninas levam Sheldon para dançar.</desc>
+  </programme>
+  <programme start="20260912031800 -0600" stop="20260912034100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912032300 -0400" stop="20260912034700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912032500 -0500" stop="20260912034800 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912032600 -0400" stop="20260912035000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912032900 -0300" stop="20260912035100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912033000 -0500" stop="20260912035400 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912033900 -0300" stop="20260912035900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <desc lang="pt">Raj tenta curar seu problema de ansiedade toda vez que fala com mulheres, enquanto Penny usa Bernadette para espionar Leonard e sua namorada.</desc>
+  </programme>
+  <programme start="20260912034100 -0600" stop="20260912040400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912034700 -0400" stop="20260912040800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912034800 -0500" stop="20260912041100 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912035000 -0400" stop="20260912041300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912035100 -0300" stop="20260912041400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912035400 -0500" stop="20260912041700 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912035900 -0300" stop="20260912042000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE ENGAGEMENT REACTION</sub-title>
+    <desc lang="pt">Quando Howard finalmente conta à sua mãe que está noivo de Bernadette, ela vai parar no hospital.</desc>
+  </programme>
+  <programme start="20260912040400 -0600" stop="20260912042700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912040800 -0400" stop="20260912043000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912041100 -0500" stop="20260912043300 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912041300 -0400" stop="20260912043700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912041400 -0300" stop="20260912043600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912041700 -0500" stop="20260912044000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20260912042000 -0300" stop="20260912044300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE ROOMATE TRANSMORGRIFICATION</sub-title>
+    <desc lang="pt">No último episódio da quarta temporada, Bernadette recebe seu Ph.D. e os rapazes se divertem lembrando o frágil Wolowitz de que ele é o único da turma sem doutorado. Ao mesmo tempo, Koothrappali passa a dividir o apartamento com Sheldon depois de ouvir Leonard e Priya no quarto, empolgados no meio de uma fantasia a la Star Trek.</desc>
+  </programme>
+  <programme start="20260912042700 -0600" stop="20260912051200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Encontrados: Temporada 1</title>
+  </programme>
+  <programme start="20260912043000 -0400" stop="20260912051500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Encontrados: Temporada 1</title>
+  </programme>
+  <programme start="20260912043300 -0500" stop="20260912051700 -0500" channel="WARNER_CO.co">
+    <title lang="es">Encontrados: Temporada 1</title>
+  </programme>
+  <programme start="20260912043600 -0300" stop="20260912052000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Encontrados: Temporada 1</title>
+  </programme>
+  <programme start="20260912043700 -0400" stop="20260912052200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Encontrados: Temporada 1</title>
+  </programme>
+  <programme start="20260912044000 -0500" stop="20260912052500 -0500" channel="WARNER_AN.co">
+    <title lang="es">Encontrados: Temporada 1</title>
+  </programme>
+  <programme start="20260912044300 -0300" stop="20260912050300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE BOOTH BABES</sub-title>
+    <desc lang="pt">Max e Caroline viram promotoras para poder ir a uma convenção de videogames sem pagar. Uma vez lá, se surpreendem ao descobrir que um amigo de Han criou os personagens de um videogame inspirado nelas.</desc>
+  </programme>
+  <programme start="20260912050300 -0300" stop="20260912053800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">COBRA KAI: SEASON 3</title>
+    <sub-title lang="pt">Vai ter que pagar</sub-title>
+    <desc lang="pt">A má reputação de Daniel atrapalha as vendas e ele recebe uma oferta de compra. Johnny tenta arrecadar dinheiro para a cirurgia de Miguel.</desc>
+  </programme>
+  <programme start="20260912051200 -0600" stop="20260912054700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260912051500 -0400" stop="20260912054800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260912051700 -0500" stop="20260912055100 -0500" channel="WARNER_CO.co">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260912052000 -0300" stop="20260912055500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260912052200 -0400" stop="20260912060000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260912052500 -0500" stop="20260912060000 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20260912053800 -0300" stop="20260912054800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">BUZUM</title>
+    <sub-title lang="pt">VOCÊ POR AQUI</sub-title>
+    <desc lang="pt">Fernando entra sozinho e triste no Buzum porque brigou com o namorado, Miguel. Por coincidência, encontra com a mãe do namorado, que puxa assunto com ele. Mas é uma conversa desconfortável, pois até onde ele sabe, ela acha que os dois são apenas amigos. Durante o papo, mais conhecidos de Fernando aparecem no Buzum, o que o deixa cada vez mais confuso. Como ele conhece todo mundo nesse ônibus?</desc>
+  </programme>
+  <programme start="20260912054700 -0600" stop="20260912060000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260912054800 -0300" stop="20260912060000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20260912054800 -0400" stop="20260912060000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260912055100 -0500" stop="20260912055400 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260912055400 -0500" stop="20260912055600 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260912055500 -0300" stop="20260912055700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260912055600 -0500" stop="20260912060000 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260912055700 -0300" stop="20260912060000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
 </tv>
