@@ -145,7 +145,7 @@ NETWORKS_CONFIG = {
                 "tz_str": "-0300"
             },
             {
-                "feed_id": "TNTLA_CH",
+                "feed_id": "TNTLA_CL",
                 "channel_id": "TNT_CL.cl",
                 "channel_name": "TNT Chile",
                 "lang": "es",
