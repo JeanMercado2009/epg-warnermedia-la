@@ -6,203 +6,41 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260901205700 -0500" stop="20260901210800 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Los Titanes celebran el cumpleaños de Raven.</desc>
-  </programme>
-  <programme start="20260901210800 -0500" stop="20260901211800 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Chico Bestia acepta compartir su cumpleaños con Starfire al enterarse de que ella nunca celebró uno en la Tierra.</desc>
-  </programme>
-  <programme start="20260901211800 -0500" stop="20260901213100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-  </programme>
-  <programme start="20260901213100 -0500" stop="20260901214300 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Los Titanes juegan al juego de la botella cuando Starfire intenta mejorar su vocabulario por medio de besos.</desc>
-  </programme>
-  <programme start="20260901214300 -0500" stop="20260901215400 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Cuando los demás Titanes se convierten en artículos de colección y desaparecen, Robin debe buscarlos en ventas de garaje y en tiendas.</desc>
-  </programme>
-  <programme start="20260901215400 -0500" stop="20260901220500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Los Titanes visitan Tamaran, el planeta natal de Starfire.</desc>
-  </programme>
-  <programme start="20260901220500 -0500" stop="20260901221600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Atrapado dentro de la casa del árbol durante una tormenta de espadas, Jake construye una fortaleza de almohadas desde donde Finn viaja a otro mundo.</desc>
-  </programme>
-  <programme start="20260901221600 -0500" stop="20260901223000 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">El hijo de Tronquitos y de Cerdo, se mete en problemas el primer día de escuela.</desc>
-  </programme>
-  <programme start="20260901223000 -0500" stop="20260901224100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Prismo necesita la ayuda de Finn y Jake para evitar que se produzca un suceso catastrófico en algún lugar del multiverso.</desc>
-  </programme>
-  <programme start="20260901224100 -0500" stop="20260901225400 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">La mente científica de Dulce Princesa debe luchar contra su Potencial mágico elemental cuando se enfrenta a una Entidad de Cristal.</desc>
-  </programme>
-  <programme start="20260901225400 -0500" stop="20260901230600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">La Dulce Princesa y Finn hacen experimentos en un cementerio cuando, por accidente, dan vida a zombis de caramelo.</desc>
-  </programme>
-  <programme start="20260901225900 -0300" stop="20260901231000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">O NOVO LARS</sub-title>
-    <desc lang="pt">Steven vê a vida de Lars sob uma nova perspectiva.</desc>
-  </programme>
-  <programme start="20260901230600 -0500" stop="20260901231700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">En este episodio se recuerda el primer día de Mordecai y Rigby en el parque. Llegan a una nueva ciudad, encuentran un anuncio de trabajo en un periódico y deciden presentarse. Llega Papaleta y les da la bienvenida a los dos. Les muestra sus habitaciones y luego Mordecai y Rigby pasan la noche bebiendo refrescos.</desc>
-  </programme>
-  <programme start="20260901231000 -0300" stop="20260901232300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">A CABEÇA DO LARS</sub-title>
-    <desc lang="pt">Lars finalmente deixa Steven entrar.</desc>
-  </programme>
-  <programme start="20260901231700 -0500" stop="20260901233000 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Cuando Mordecai está por entrar a la cafetería con la intención de invitar a Margaret al cine, mira por la ventana y ve a Margaret con otro hombre, que está arrodillado en posición de pedirle matrimonio, mientras Margaret le dice "yes, dude! yes!". Al ver esa escena, Mordecai se encierra en su habitación para escuchar una canción deprimente.</desc>
-  </programme>
-  <programme start="20260901232300 -0300" stop="20260901233400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">TANTOS ANIVERSÁRIOS</sub-title>
-    <desc lang="pt">Steven descobre que as Gems têm milhares de anos de idade e decide compensar os milhares de aniversários que elas perderam.</desc>
-  </programme>
-  <programme start="20260901233000 -0500" stop="20260901234200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Mordecai y Rigby necesitan hacer un trato con los científicos para recuperar las llaves del auto de Benson.</desc>
-  </programme>
-  <programme start="20260901233400 -0300" stop="20260901234600 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">CARRINHO DE CONTROLE REMOTO</sub-title>
-    <desc lang="pt">Clarêncio passa o dia ao ar livre, brincando com seu carrinho de controle remoto - chamado por ele de Carla. Ele logo se convence de que Carla é um ser pensante e decide acompanhá-la em novas aventuras. Será que a perseguição de carro de Clarêncio atrapalhará os planos de Jeff e Sumo?</desc>
-  </programme>
-  <programme start="20260901234200 -0500" stop="20260901235500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Benson quiere obtener algo de reputación entre la Asociación de Gerentes de Parques y ganar la gran competencia culinaria de chili con carne.</desc>
-  </programme>
-  <programme start="20260901234600 -0300" stop="20260901235800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">CHAPÉU TARTARUGA</sub-title>
-    <desc lang="pt">Enquanto lê uma mensagem confusa na sala de aula, a Srta. Baker sem querer dá aos alunos um trabalho sobre "chapéus de tartaruga". As crianças têm dificuldade para entender do que se trata e, quando chega a hora da apresentação, Clarêncio, Jeff e Sumo começam a improvisar</desc>
-  </programme>
-  <programme start="20260901235500 -0500" stop="20260902000600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Mordecai y Rigby deben limpiar su habitación.</desc>
-  </programme>
-  <programme start="20260901235800 -0300" stop="20260902000900 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">JOGOS DE GUARDA</sub-title>
-    <desc lang="pt">Pardo ajuda o Guarda Tabes e os Poppy Rangers a jogar uma partida de kickball contra os rivais deles.</desc>
-  </programme>
-  <programme start="20260902000600 -0500" stop="20260902001900 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Grizz ayuda a la Guardabosques Tabes y a las Guardabosques de la Amapola a jugar a un partido de kickball contra sus rivales.</desc>
-  </programme>
-  <programme start="20260902000900 -0300" stop="20260902002100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">EU, MORDOMO</sub-title>
-    <desc lang="pt">Os ursos usam um urso robô para ajudá-los a limpar a casa. Mas as coisas se complicam quando o robô sai do controle.</desc>
-  </programme>
-  <programme start="20260902001900 -0500" stop="20260902003100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Los Osos usan un oso robótico que los ayuda con las tareas domésticas. Pero las cosas se complican cuando pierden el control del robot.</desc>
-  </programme>
-  <programme start="20260902002100 -0300" stop="20260902003300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">FESTAS DE NATAL</sub-title>
-    <desc lang="pt">Os ursos foram convidados para todas as festas de Natal dos seus amigos. Numa tentativa de tentar entrar de penetras na comemoração estrelada de Nom Nom, eles fazem paradas rápidas em cada uma das festas durante a noite.</desc>
-  </programme>
   <programme start="20260902003100 -0500" stop="20260902004400 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Todos los amigos de los Osos los invitaron a sus fiestas de Navidad. En un intento por tener tiempo para ir al festejo de primer nivel de Nom Nom, los Osos primero tratan de hacer paradas cortas en las fiestas de sus amigos a lo largo de la noche.</desc>
-  </programme>
-  <programme start="20260902003300 -0300" stop="20260902004500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">CIDADÃ TABES</sub-title>
-    <desc lang="pt">Depois de machucar um animal sem querer, a guarda Tabes resolve abandonar seu emprego. Os ursos fazem o que podem para trazê-la de volta.</desc>
   </programme>
   <programme start="20260902004400 -0500" stop="20260902005500 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Cuando los Osos van al dentista, Panda se coloca frenos. Pronto, descubre que los frenos le confieren habilidades superiores y ese poder se le sube a la cabeza.</desc>
   </programme>
-  <programme start="20260902004500 -0300" stop="20260902005600 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">APARELHO</sub-title>
-    <desc lang="pt">Quando os Ursos vão ao dentista, Panda acaba pondo um aparelho. Ele descobre que o aparelho lhe concede super-habilidades e o poder lhe sobe à cabeça.</desc>
-  </programme>
   <programme start="20260902005500 -0500" stop="20260902010700 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Gumball y Darwin aprenden que recuperar una reliquia de familia que está en manos de un anciano no es tan fácil como se cree.</desc>
-  </programme>
-  <programme start="20260902005600 -0300" stop="20260902010800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O RELÓGIO</sub-title>
-    <desc lang="pt">Gumball e Darwin descobrem que recuperar uma relíquia de família pode ser mais difícil do que eles imaginam.</desc>
   </programme>
   <programme start="20260902010700 -0500" stop="20260902011900 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">La familia tiene que dejar de hacer cosas estúpidas para impedir que Anaís entre en coma por darse tantas palmadas faciales en señal de exasperación.</desc>
   </programme>
-  <programme start="20260902010800 -0300" stop="20260902012000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O CÉREBRO</sub-title>
-    <desc lang="pt">A família precisa parar de fazer coisas estúpidas para evitar que Anaís entre em coma por bater muito no rosto.</desc>
-  </programme>
   <programme start="20260902011900 -0500" stop="20260902013400 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Sarah encuentra un cuaderno de una tienda fabulosa, que mágicamente hace realidad lo que ella dibuja. Por desgracia, Sarah dibuja historias románticas extrañas por todo Elmore.</desc>
-  </programme>
-  <programme start="20260902012000 -0300" stop="20260902013200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">OS CASAIS</sub-title>
-    <desc lang="pt">Sarah encontra um caderno em uma loja incrível e tudo o que ela desenha nele se torna realidade. Infelizmente, ela começa a desenhar histórias de amor bizarras por toda Elmore.</desc>
-  </programme>
-  <programme start="20260902013200 -0300" stop="20260902014400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">OS EXTRAS</sub-title>
-    <desc lang="pt">Não há nada demais acontecendo na vida de Gumball e Darwin, e os personagens secundários de Elmore agarram a oportunidade. Uma variedade de figuras que você já deve ter visto no fundo da tela durante as aventuras de Gumball e Darwin finalmente se faz ouvir. Uma série de esquetes inclui extras de uma partida de tênis, duas pizzas apaixonadas e o Cara do Bacon.</desc>
   </programme>
   <programme start="20260902013400 -0500" stop="20260902014500 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">No pasa gran cosa con Gumball y Darwin, así que los personajes secundarios de Elmore aprovechan la oportunidad. Diversos personajes secundarios en los que quizá hayan reparado durante las aventuras de Gumball y Darwin por fin se hacen oír.  Veremos una serie de situaciones que incluyen unos extras de un partido de tenis, dos pizzas enamoradas y el Hombre del Tocino.</desc>
   </programme>
-  <programme start="20260902014400 -0300" stop="20260902015700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A CASCA</sub-title>
-    <desc lang="pt">Enquanto participa de uma peça na escola, Gumball fica tão nervoso por ter que beijar Penny que acaba dando uma cabeçada nela e abrindo sua concha. Ele descobre que dentro dela existe um ser emotivo e mutante. O pai de Penny está disposto a abafar o caso, mas Gumball a incentiva a mostrar ao mundo quem ela é de verdade¿</desc>
-  </programme>
   <programme start="20260902014500 -0500" stop="20260902015700 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Para una obra de teatro del colegio, Gumball debe besar a Penny. De los nervios, le da un cabezazo sin querer y le rompe el cascarón.  Así se descubre que, bajo el cascarón de Penny, hay un ser cambiante y emotivo. El padre de Penny está decidido a que ella lo mantenga oculto, pero Gumball la anima a mostrarle al mundo quién o qué es en realidad¿</desc>
-  </programme>
-  <programme start="20260902015700 -0300" stop="20260902020900 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O CAPACETE</sub-title>
-    <desc lang="pt">O capacete mágico de alumínio de Gumball ameaça separar a família Watterson!</desc>
   </programme>
   <programme start="20260902015700 -0500" stop="20260902021100 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">¡El casco de aluminio mágico de Gumball amenaza con destruir a la familia Watterson!</desc>
   </programme>
-  <programme start="20260902020900 -0300" stop="20260902022000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A CULPA</sub-title>
-    <desc lang="pt">Quando a Associação de Pais e Mestres do Colégio Elmore bane os videogames, as crianças tentam provar que os jogos não são uma má influência.</desc>
-  </programme>
   <programme start="20260902021100 -0500" stop="20260902022200 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">La Asociación de Padres y Maestros de la escuela Elmore prohíbe los videojuegos, así que los niños tratan de demostrar que los juegos no son una mala influencia.</desc>
-  </programme>
-  <programme start="20260902022000 -0300" stop="20260902023200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">OS FANTOCHES</sub-title>
-    <desc lang="pt">Darwin fica animado quando eles encontram antigos brinquedos de infância. Mas logo descobre que algumas coisas deveriam ser deixadas no passado.</desc>
   </programme>
   <programme start="20260902022200 -0500" stop="20260902023400 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
