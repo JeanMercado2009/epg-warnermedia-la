@@ -99,6 +99,68 @@ NETWORKS_CONFIG = {
                 "tz_str": "-0300"
             }
         ]
+    },
+    "TNTLA_EPG.xml": {
+        "generator_name": "Guia de Programacion TNT MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/14",
+        "feeds": [
+            {
+                "feed_id": "TNTLA_MX",
+                "channel_id": "TNT_MX.mx",
+                "channel_name": "TNT México",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-6)),
+                "tz_str": "-0600"
+            },
+            {
+                "feed_id": "TNTLA_CO",
+                "channel_id": "TNT_CO.co",
+                "channel_name": "TNT Colombia",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "TNTLA_VE",
+                "channel_id": "TNT_VE.ve",
+                "channel_name": "TNT Venezuela",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            },
+            {
+                "feed_id": "TNTLA_PAN",
+                "channel_id": "TNT_PAN.co",
+                "channel_name": "TNT Panregional",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "TNTLA_BR",
+                "channel_id": "TNT_BR.br",
+                "channel_name": "TNT Brasil HD",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "TNTLA_AR",
+                "channel_id": "TNT_AR.ar",
+                "channel_name": "TNT Argentina",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "TNTLA_CH",
+                "channel_id": "TNT_CL.cl",
+                "channel_name": "TNT Chile",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            }
+        ]
     }
 }
 
@@ -169,7 +231,7 @@ def sanitize_and_parse_xml(file_path, generator_name):
         for line in content.splitlines():
             stripped = line.strip()
             # Filtro de cabeceras basura
-            if stripped in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"] or (("PANREGIONAL" in stripped or "WARNER" in stripped) and not stripped.startswith("<")):
+            if stripped in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"] or (("PANREGIONAL" in stripped or "WARNER" in stripped or "TNT" in stripped) and not stripped.startswith("<")):
                 continue
             cleaned_lines.append(line)
 
