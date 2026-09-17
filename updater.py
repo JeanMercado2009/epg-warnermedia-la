@@ -121,14 +121,6 @@ NETWORKS_CONFIG = {
                 "tz_str": "-0500"
             },
             {
-                "feed_id": "TNTLA_VE",
-                "channel_id": "TNT_VE.ve",
-                "channel_name": "TNT Venezuela",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-4)),
-                "tz_str": "-0400"
-            },
-            {
                 "feed_id": "TNTLA_PAN",
                 "channel_id": "TNT_PAN.co",
                 "channel_name": "TNT Panregional",
