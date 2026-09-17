@@ -25,6 +25,9 @@
   <programme start="20260917060000 -0300" stop="20260917060900 -0300" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
   </programme>
+  <programme start="20260917060000 -0400" stop="20260917063600 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
   <programme start="20260917060000 -0500" stop="20260917063700 -0500" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
   </programme>
@@ -44,6 +47,10 @@
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
   </programme>
   <programme start="20260917062700 -0500" stop="20260917084500 -0500" channel="TNT_PAN.co">
+    <title lang="es">BATMAN REGRESA</title>
+    <desc lang="es">Habiendo derrotado al Wason, Batman ahora enfrenta al Pinguino quien intenta ser aceptado por la sociedad de Ciudad Gótica.</desc>
+  </programme>
+  <programme start="20260917063600 -0400" stop="20260917084800 -0400" channel="TNT_CL.cl">
     <title lang="es">BATMAN REGRESA</title>
     <desc lang="es">Habiendo derrotado al Wason, Batman ahora enfrenta al Pinguino quien intenta ser aceptado por la sociedad de Ciudad Gótica.</desc>
   </programme>
@@ -83,6 +90,10 @@
     <title lang="es">SUPERMAN REGRESA</title>
     <desc lang="es">Tras dejar la Tierra por cinco años para buscar los restos del planeta Kripton, Superman vuelve y se encuentra con que nuestro planeta ya no cree que él sea su salvador. Superman extraña a Lois Lane, que está comprometida y tiene un hijo. Mientras, Lex Luthor (Kevin Spacey) prepara un plan malvado para debilitar para siempre al Hombre de Acero.</desc>
   </programme>
+  <programme start="20260917084800 -0400" stop="20260917113400 -0400" channel="TNT_CL.cl">
+    <title lang="es">SUPERMAN REGRESA</title>
+    <desc lang="es">Tras dejar la Tierra por cinco años para buscar los restos del planeta Kripton, Superman vuelve y se encuentra con que nuestro planeta ya no cree que él sea su salvador. Superman extraña a Lois Lane, que está comprometida y tiene un hijo. Mientras, Lex Luthor (Kevin Spacey) prepara un plan malvado para debilitar para siempre al Hombre de Acero.</desc>
+  </programme>
   <programme start="20260917085000 -0500" stop="20260917113900 -0500" channel="TNT_CO.co">
     <title lang="es">SUPERMAN REGRESA</title>
     <desc lang="es">Tras dejar la Tierra por cinco años para buscar los restos del planeta Kripton, Superman vuelve y se encuentra con que nuestro planeta ya no cree que él sea su salvador. Superman extraña a Lois Lane, que está comprometida y tiene un hijo. Mientras, Lex Luthor (Kevin Spacey) prepara un plan malvado para debilitar para siempre al Hombre de Acero.</desc>
@@ -117,7 +128,14 @@
     <sub-title lang="pt">AÍ ESTÁ, PARTE II</sub-title>
     <desc lang="pt">Will deve julgar quem faz o melhor recheio da família. Hilary e Carlton aprendem o verdadeiro significado do Dia de Ação de Graças. E a cura de Will para a dor nas costas do Phil leva os dois para a cadeia</desc>
   </programme>
+  <programme start="20260917113400 -0400" stop="20260917113700 -0400" channel="TNT_CL.cl">
+    <title lang="es" />
+  </programme>
   <programme start="20260917113600 -0500" stop="20260917131800 -0500" channel="TNT_PAN.co">
+    <title lang="es">JACK Y JILL</title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+  </programme>
+  <programme start="20260917113700 -0400" stop="20260917131700 -0400" channel="TNT_CL.cl">
     <title lang="es">JACK Y JILL</title>
     <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
   </programme>
@@ -162,6 +180,10 @@
     <sub-title lang="pt">TODO MUNDO ODEIA DIA DA FOTO</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
   </programme>
+  <programme start="20260917131700 -0400" stop="20260917151000 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL CAMINO DE REGRESO</title>
+    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
+  </programme>
   <programme start="20260917131800 -0500" stop="20260917151300 -0500" channel="TNT_PAN.co">
     <title lang="es">EL CAMINO DE REGRESO</title>
     <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
@@ -192,6 +214,10 @@
     <title lang="pt">DIAMANTE DE SANGUE</title>
     <desc lang="pt">No papel que lhe rendeu sua terceira indicação ao Oscar, Leonardo DiCaprio estrela Diamante de Sangue como um mercenário que deseja transformar sua vida encontrando um raro diamante cor-de-rosa. Em sua jornada, ele será acompanhado por Solomon Vandy, um homem que foi arrancado de sua família e forçado a trabalhar nas minas de diamante. Dividindo histórias de vida completamente diferentes, mas unidos pelo mesmo propósito, eles embarcarão em uma viagem por território inimigo, em uma trajetória que poderá salvar a família de Solomon e dar a Archer uma segunda chance. Jennifer Connelly interpreta uma jornalista americana cujo idealismo é temperado por uma profunda conexão com Archer.</desc>
   </programme>
+  <programme start="20260917151000 -0400" stop="20260917165900 -0400" channel="TNT_CL.cl">
+    <title lang="es">MEDIO MUERTO</title>
+    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
+  </programme>
   <programme start="20260917151300 -0500" stop="20260917170400 -0500" channel="TNT_PAN.co">
     <title lang="es">MEDIO MUERTO</title>
     <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
@@ -211,6 +237,10 @@
   <programme start="20260917164300 -0300" stop="20260917185900 -0300" channel="TNT_BR.br">
     <title lang="pt">SNIPER AMERICANO</title>
     <desc lang="pt">Nascido no Texas, Chris Kyle aprendeu a atirar ainda na infância ao caçar veados com seu pai. Quando cresceu, se tornou um dedicado e habilidoso atirador de elite das forças especiais da marinha norte-americana. Por conta de seus bons resultados no exército, é escolhido para atuar em uma importante missão na guerra do Iraque e cumpre o seu dever de forma exemplar, se tornando um dos melhores soldados da equipe durante os dez anos em que atuou no país. Apesar de todas as glórias e condecorações que recebeu em seu retorno para casa, a experiência em campo o deixou profundamente abalado emocionalmente. Kyle precisa enfrentar os fantasmas da época de batalha enquanto precisa dedicar-se a sua família.</desc>
+  </programme>
+  <programme start="20260917165900 -0400" stop="20260917194400 -0400" channel="TNT_CL.cl">
+    <title lang="es">DIAMANTE DE SANGRE</title>
+    <desc lang="es">En el papel que le valió su tercera nominación al Oscar, Leonardo DiCaprio protagoniza  Diamante de Sangre como un mercenario que desea transformar su vida encontrando un raro diamante rosado. En el camino, estará acompañado por Solomon Vandy, un hombre que fue arrancado de su familia y forzado a trabajar en las minas de diamante. Con historias de vida completamente distintas, pero unidos por el mismo propósito, se embarcarán en un viaje por territorio enemigo, en una trayectoria que podrá salvar a la familia de Solomon y darle a Archer una segunda oportunidad. Jennifer Connelly interpreta a una periodista norteamericana cuyo idealismo es condimentado por una profunda conexión con Archer.</desc>
   </programme>
   <programme start="20260917170400 -0500" stop="20260917194200 -0500" channel="TNT_PAN.co">
     <title lang="es">DIAMANTE DE SANGRE</title>
@@ -239,7 +269,14 @@
   <programme start="20260917194200 -0500" stop="20260917194500 -0500" channel="TNT_PAN.co">
     <title lang="es" />
   </programme>
+  <programme start="20260917194400 -0400" stop="20260917194700 -0400" channel="TNT_CL.cl">
+    <title lang="es" />
+  </programme>
   <programme start="20260917194500 -0500" stop="20260917220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">RENDIRSE JAMÁS</title>
+    <desc lang="es">Un adolescente frustrado y conflictivo llega a un nuevo instituto donde descubre la existencia de un club de lucha clandestino y conoce a un compañero que le obligará a pelear.</desc>
+  </programme>
+  <programme start="20260917194700 -0400" stop="20260917220000 -0400" channel="TNT_CL.cl">
     <title lang="es">RENDIRSE JAMÁS</title>
     <desc lang="es">Un adolescente frustrado y conflictivo llega a un nuevo instituto donde descubre la existencia de un club de lucha clandestino y conoce a un compañero que le obligará a pelear.</desc>
   </programme>
@@ -273,6 +310,10 @@
     <desc lang="es">Sebastián, un joven y exitoso enólogo, es el soltero por excelencia, acostumbrado a una vida de excesos, lujos y muchas mujeres, un día despierta al lado de Alexa, una hermosa bióloga marina con quien, sin recordarlo y motivado por una tremenda borrachera, contrajo matrimonio la noche anterior. Aunque Sebastián agota todos los recursos por anular su espontáneo matrimonio, Alexa lo amenaza con quitarle la mitad de sus bienes si no acepta que ella se quede a vivir con él al menos tres semanas para asegurarse de no estar embarazada. Recién Cazado es una divertida lucha de sexos, en donde Sebastián y Alexa tendrán que aprender a tolerarse, convivir, compartir y dejar atrás sus más intensas extravagancias de solteros para dar paso al verdadero amor.</desc>
   </programme>
   <programme start="20260917220000 -0300" stop="20260918002800 -0300" channel="TNT_AR.ar">
+    <title lang="es">FRANCOTIRADOR</title>
+    <desc lang="es">Chris Kyle creció en Texas, y su padre le enseñó a disparar. En 1998, decide alistarse en el ejército y se convierte en francotirador para los Navy SEALs. Kyle conoce a Taya Studebaker en un bar, y pronto se casan. Luego de los ataques del 11 de septiembre, Chris es enviado a Irak. Un tiempo después, Kyle vuelve a casa y presencia el nacimiento de su hijo, pero los recuerdos de la guerra lo atormentan. Luego vuelve a Irak. Su objetivo será derrotar a Mustafa, un francotirador y medallista olímpico sirio.</desc>
+  </programme>
+  <programme start="20260917220000 -0400" stop="20260918003200 -0400" channel="TNT_CL.cl">
     <title lang="es">FRANCOTIRADOR</title>
     <desc lang="es">Chris Kyle creció en Texas, y su padre le enseñó a disparar. En 1998, decide alistarse en el ejército y se convierte en francotirador para los Navy SEALs. Kyle conoce a Taya Studebaker en un bar, y pronto se casan. Luego de los ataques del 11 de septiembre, Chris es enviado a Irak. Un tiempo después, Kyle vuelve a casa y presencia el nacimiento de su hijo, pero los recuerdos de la guerra lo atormentan. Luego vuelve a Irak. Su objetivo será derrotar a Mustafa, un francotirador y medallista olímpico sirio.</desc>
   </programme>
@@ -312,6 +353,10 @@
     <desc lang="es">Un anónimo defensor de la libertad conocido simplemente como "V" (Hugo Tecendo) usa tácticas terroristas para luchar contra una Gran Bretaña totalitaria en un escenario futurístico. V salva a una joven llamada Evey (Natalie Portman) de una situación de vida o muerte, y ella inmediatamente se convierte en su improbable aliada en el punto máximo de su trama para recuperar la libertad y la justicia para una sociedad repleta de crueldad y corrupción.</desc>
   </programme>
   <programme start="20260918002900 -0500" stop="20260918024300 -0500" channel="TNT_PAN.co">
+    <title lang="es">V DE VENGANZA</title>
+    <desc lang="es">Un anónimo defensor de la libertad conocido simplemente como "V" (Hugo Tecendo) usa tácticas terroristas para luchar contra una Gran Bretaña totalitaria en un escenario futurístico. V salva a una joven llamada Evey (Natalie Portman) de una situación de vida o muerte, y ella inmediatamente se convierte en su improbable aliada en el punto máximo de su trama para recuperar la libertad y la justicia para una sociedad repleta de crueldad y corrupción.</desc>
+  </programme>
+  <programme start="20260918003200 -0400" stop="20260918024800 -0400" channel="TNT_CL.cl">
     <title lang="es">V DE VENGANZA</title>
     <desc lang="es">Un anónimo defensor de la libertad conocido simplemente como "V" (Hugo Tecendo) usa tácticas terroristas para luchar contra una Gran Bretaña totalitaria en un escenario futurístico. V salva a una joven llamada Evey (Natalie Portman) de una situación de vida o muerte, y ella inmediatamente se convierte en su improbable aliada en el punto máximo de su trama para recuperar la libertad y la justicia para una sociedad repleta de crueldad y corrupción.</desc>
   </programme>
@@ -356,6 +401,9 @@
     <sub-title lang="pt">AÍ ESTÁ, PARTE II</sub-title>
     <desc lang="pt">Will deve julgar quem faz o melhor recheio da família. Hilary e Carlton aprendem o verdadeiro significado do Dia de Ação de Graças. E a cura de Will para a dor nas costas do Phil leva os dois para a cadeia</desc>
   </programme>
+  <programme start="20260918024800 -0400" stop="20260918042500 -0400" channel="TNT_CL.cl">
+    <title lang="es" />
+  </programme>
   <programme start="20260918031000 -0300" stop="20260918033200 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">EU...</sub-title>
@@ -375,6 +423,9 @@
     <title lang="es">MI TEORIA DE LA POPULARIDAD</title>
   </programme>
   <programme start="20260918041800 -0500" stop="20260918054900 -0500" channel="TNT_PAN.co">
+    <title lang="es">MI TEORIA DE LA POPULARIDAD</title>
+  </programme>
+  <programme start="20260918042500 -0400" stop="20260918055200 -0400" channel="TNT_CL.cl">
     <title lang="es">MI TEORIA DE LA POPULARIDAD</title>
   </programme>
   <programme start="20260918051600 -0600" stop="20260918055100 -0600" channel="TNT_MX.mx">
@@ -397,5 +448,14 @@
   </programme>
   <programme start="20260918055100 -0600" stop="20260918060000 -0600" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260918055200 -0400" stop="20260918055600 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260918055600 -0400" stop="20260918055700 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260918055700 -0400" stop="20260918060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
   </programme>
 </tv>
