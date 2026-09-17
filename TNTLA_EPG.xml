@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Guia de Programacion TNT MultiFeed">
-  <!-- CANALES VÁLIDOS -->
   <channel id="TNT_MX.mx">
     <display-name>TNT México</display-name>
   </channel>
@@ -19,4 +18,384 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
+  <programme start="20260917060000 -0300" stop="20260917064100 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20260917060000 -0300" stop="20260917060900 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260917060000 -0500" stop="20260917063700 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260917060000 -0500" stop="20260917061700 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260917060000 -0600" stop="20260917064200 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260917060900 -0300" stop="20260917061900 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260917061700 -0500" stop="20260917062700 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260917061900 -0300" stop="20260917063800 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260917062700 -0500" stop="20260917084500 -0500" channel="TNT_PAN.co">
+    <title lang="es">BATMAN REGRESA</title>
+    <desc lang="es">Habiendo derrotado al Wason, Batman ahora enfrenta al Pinguino quien intenta ser aceptado por la sociedad de Ciudad Gótica.</desc>
+  </programme>
+  <programme start="20260917063700 -0500" stop="20260917063900 -0500" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260917063800 -0300" stop="20260917085400 -0300" channel="TNT_AR.ar">
+    <title lang="es">BATMAN REGRESA</title>
+    <desc lang="es">Habiendo derrotado al Wason, Batman ahora enfrenta al Pinguino quien intenta ser aceptado por la sociedad de Ciudad Gótica.</desc>
+  </programme>
+  <programme start="20260917063900 -0500" stop="20260917085000 -0500" channel="TNT_CO.co">
+    <title lang="es">BATMAN REGRESA</title>
+    <desc lang="es">Habiendo derrotado al Wason, Batman ahora enfrenta al Pinguino quien intenta ser aceptado por la sociedad de Ciudad Gótica.</desc>
+  </programme>
+  <programme start="20260917064100 -0300" stop="20260917065000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260917064200 -0600" stop="20260917065400 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260917065000 -0300" stop="20260917065300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+  </programme>
+  <programme start="20260917065300 -0300" stop="20260917065600 -0300" channel="TNT_BR.br">
+    <title lang="pt">MELHORES MOMENTOS EMMY AWARDS 2026</title>
+    <desc lang="pt">Confira os melhores momentos do Emmy Awards 2026 na TNT.</desc>
+  </programme>
+  <programme start="20260917065400 -0600" stop="20260917090700 -0600" channel="TNT_MX.mx">
+    <title lang="es">BATMAN REGRESA</title>
+    <desc lang="es">Habiendo derrotado al Wason, Batman ahora enfrenta al Pinguino quien intenta ser aceptado por la sociedad de Ciudad Gótica.</desc>
+  </programme>
+  <programme start="20260917065600 -0300" stop="20260917090500 -0300" channel="TNT_BR.br">
+    <title lang="pt">BATMAN: O RETORNO</title>
+    <desc lang="pt">Havendo derrotado o Coringa, Batman enfrenta agora o Pinguim: um indivíduo deformado e malvado que tenta ser aceito pela sociedade de Gotham City.</desc>
+  </programme>
+  <programme start="20260917084500 -0500" stop="20260917113300 -0500" channel="TNT_PAN.co">
+    <title lang="es">SUPERMAN REGRESA</title>
+    <desc lang="es">Tras dejar la Tierra por cinco años para buscar los restos del planeta Kripton, Superman vuelve y se encuentra con que nuestro planeta ya no cree que él sea su salvador. Superman extraña a Lois Lane, que está comprometida y tiene un hijo. Mientras, Lex Luthor (Kevin Spacey) prepara un plan malvado para debilitar para siempre al Hombre de Acero.</desc>
+  </programme>
+  <programme start="20260917085000 -0500" stop="20260917113900 -0500" channel="TNT_CO.co">
+    <title lang="es">SUPERMAN REGRESA</title>
+    <desc lang="es">Tras dejar la Tierra por cinco años para buscar los restos del planeta Kripton, Superman vuelve y se encuentra con que nuestro planeta ya no cree que él sea su salvador. Superman extraña a Lois Lane, que está comprometida y tiene un hijo. Mientras, Lex Luthor (Kevin Spacey) prepara un plan malvado para debilitar para siempre al Hombre de Acero.</desc>
+  </programme>
+  <programme start="20260917085400 -0300" stop="20260917114100 -0300" channel="TNT_AR.ar">
+    <title lang="es">SUPERMAN REGRESA</title>
+    <desc lang="es">Tras dejar la Tierra por cinco años para buscar los restos del planeta Kripton, Superman vuelve y se encuentra con que nuestro planeta ya no cree que él sea su salvador. Superman extraña a Lois Lane, que está comprometida y tiene un hijo. Mientras, Lex Luthor (Kevin Spacey) prepara un plan malvado para debilitar para siempre al Hombre de Acero.</desc>
+  </programme>
+  <programme start="20260917090500 -0300" stop="20260917104300 -0300" channel="TNT_BR.br">
+    <title lang="pt">CADA UM TEM A GÊMEA QUE MERECE</title>
+    <desc lang="pt">O calmo publicitário Jack mora em Los Angeles com sua esposa Erin. Um dia, ele recebe a nada agradável visita de sua irmã gêmea Jill, uma grosseira moradora do Bronx, em Nova York. Inicialmente, ela passaria apenas o Dia de Ação de Graças com a família de seu irmão, mas, para a infelicidade de Jack, Jill acaba ficando muito mais tempo do que o esperado. Conforme os dias seguem, a situação fica insuportável. Para se livrar da irmã irritante e estabanada, ele resolve ajudá-la a arranjar um namorado. Só que ninguém poderia imaginar que o ator Al Pacino fosse cair de amores pela garota. O interesse de Pacino pela irmã faz Jack unir o útil ao agradável ao tentar convencer o ator a fazer um comercial da Dunkin' Donuts.</desc>
+  </programme>
+  <programme start="20260917090700 -0600" stop="20260917114800 -0600" channel="TNT_MX.mx">
+    <title lang="es">SUPERMAN REGRESA</title>
+    <desc lang="es">Tras dejar la Tierra por cinco años para buscar los restos del planeta Kripton, Superman vuelve y se encuentra con que nuestro planeta ya no cree que él sea su salvador. Superman extraña a Lois Lane, que está comprometida y tiene un hijo. Mientras, Lex Luthor (Kevin Spacey) prepara un plan malvado para debilitar para siempre al Hombre de Acero.</desc>
+  </programme>
+  <programme start="20260917104300 -0300" stop="20260917110900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">PERCAS</sub-title>
+    <desc lang="pt">Will e Carlton vão para Las Vegas comemorar o aniversário de 21 anos de Carlton e um deles acaba se viciando nos jogos.</desc>
+  </programme>
+  <programme start="20260917110900 -0300" stop="20260917113400 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">AÍ ESTÁ, PARTE I</sub-title>
+    <desc lang="pt">Will deve julgar quem faz o melhor recheio da família. Hilary e Carlton aprendem o verdadeiro significado do Dia de Ação de Graças. E a cura de Will para a dor nas costas do Phil leva os dois para a cadeia.</desc>
+  </programme>
+  <programme start="20260917113300 -0500" stop="20260917113600 -0500" channel="TNT_PAN.co">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917113400 -0300" stop="20260917120000 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">AÍ ESTÁ, PARTE II</sub-title>
+    <desc lang="pt">Will deve julgar quem faz o melhor recheio da família. Hilary e Carlton aprendem o verdadeiro significado do Dia de Ação de Graças. E a cura de Will para a dor nas costas do Phil leva os dois para a cadeia</desc>
+  </programme>
+  <programme start="20260917113600 -0500" stop="20260917131800 -0500" channel="TNT_PAN.co">
+    <title lang="es">JACK Y JILL</title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+  </programme>
+  <programme start="20260917113900 -0500" stop="20260917114200 -0500" channel="TNT_CO.co">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917114100 -0300" stop="20260917114400 -0300" channel="TNT_AR.ar">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917114200 -0500" stop="20260917132400 -0500" channel="TNT_CO.co">
+    <title lang="es">JACK Y JILL</title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+  </programme>
+  <programme start="20260917114400 -0300" stop="20260917132700 -0300" channel="TNT_AR.ar">
+    <title lang="es">JACK Y JILL</title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+  </programme>
+  <programme start="20260917114800 -0600" stop="20260917115100 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917115100 -0600" stop="20260917132800 -0600" channel="TNT_MX.mx">
+    <title lang="es">JACK Y JILL</title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+  </programme>
+  <programme start="20260917120000 -0300" stop="20260917122500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">EU...</sub-title>
+    <desc lang="pt">Insatisfeita, mesmo depois de sua estreia na TV em rede nacional, Hilary conclui que quer ter um filho. A família Banks comemora o Natal.</desc>
+  </programme>
+  <programme start="20260917122500 -0300" stop="20260917124800 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA EMPREGOS DE MEIO PERÍODO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260917124800 -0300" stop="20260917130900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O NATAL</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260917130900 -0300" stop="20260917133100 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA DIA DA FOTO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260917131800 -0500" stop="20260917151300 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL CAMINO DE REGRESO</title>
+    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
+  </programme>
+  <programme start="20260917132400 -0500" stop="20260917151700 -0500" channel="TNT_CO.co">
+    <title lang="es">EL CAMINO DE REGRESO</title>
+    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
+  </programme>
+  <programme start="20260917132700 -0300" stop="20260917152800 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL CAMINO DE REGRESO</title>
+    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
+  </programme>
+  <programme start="20260917132800 -0600" stop="20260917152100 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL CAMINO DE REGRESO</title>
+    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
+  </programme>
+  <programme start="20260917133100 -0300" stop="20260917135300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O DIA DOS NAMORADOS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260917135300 -0300" stop="20260917141500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA LOTERIA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260917141500 -0300" stop="20260917164300 -0300" channel="TNT_BR.br">
+    <title lang="pt">DIAMANTE DE SANGUE</title>
+    <desc lang="pt">No papel que lhe rendeu sua terceira indicação ao Oscar, Leonardo DiCaprio estrela Diamante de Sangue como um mercenário que deseja transformar sua vida encontrando um raro diamante cor-de-rosa. Em sua jornada, ele será acompanhado por Solomon Vandy, um homem que foi arrancado de sua família e forçado a trabalhar nas minas de diamante. Dividindo histórias de vida completamente diferentes, mas unidos pelo mesmo propósito, eles embarcarão em uma viagem por território inimigo, em uma trajetória que poderá salvar a família de Solomon e dar a Archer uma segunda chance. Jennifer Connelly interpreta uma jornalista americana cujo idealismo é temperado por uma profunda conexão com Archer.</desc>
+  </programme>
+  <programme start="20260917151300 -0500" stop="20260917170400 -0500" channel="TNT_PAN.co">
+    <title lang="es">MEDIO MUERTO</title>
+    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
+  </programme>
+  <programme start="20260917151700 -0500" stop="20260917170800 -0500" channel="TNT_CO.co">
+    <title lang="es">MEDIO MUERTO</title>
+    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
+  </programme>
+  <programme start="20260917152100 -0600" stop="20260917174000 -0600" channel="TNT_MX.mx">
+    <title lang="es">SELENA</title>
+    <desc lang="es">Biografía musical de la 'Reyna del Tex-Mex'.La cantante interpretada por Jennifer López muestra todos sus éxitos y el drama más grande de su vida.</desc>
+  </programme>
+  <programme start="20260917152800 -0300" stop="20260917172300 -0300" channel="TNT_AR.ar">
+    <title lang="es">MEDIO MUERTO</title>
+    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
+  </programme>
+  <programme start="20260917164300 -0300" stop="20260917185900 -0300" channel="TNT_BR.br">
+    <title lang="pt">SNIPER AMERICANO</title>
+    <desc lang="pt">Nascido no Texas, Chris Kyle aprendeu a atirar ainda na infância ao caçar veados com seu pai. Quando cresceu, se tornou um dedicado e habilidoso atirador de elite das forças especiais da marinha norte-americana. Por conta de seus bons resultados no exército, é escolhido para atuar em uma importante missão na guerra do Iraque e cumpre o seu dever de forma exemplar, se tornando um dos melhores soldados da equipe durante os dez anos em que atuou no país. Apesar de todas as glórias e condecorações que recebeu em seu retorno para casa, a experiência em campo o deixou profundamente abalado emocionalmente. Kyle precisa enfrentar os fantasmas da época de batalha enquanto precisa dedicar-se a sua família.</desc>
+  </programme>
+  <programme start="20260917170400 -0500" stop="20260917194200 -0500" channel="TNT_PAN.co">
+    <title lang="es">DIAMANTE DE SANGRE</title>
+    <desc lang="es">En el papel que le valió su tercera nominación al Oscar, Leonardo DiCaprio protagoniza  Diamante de Sangre como un mercenario que desea transformar su vida encontrando un raro diamante rosado. En el camino, estará acompañado por Solomon Vandy, un hombre que fue arrancado de su familia y forzado a trabajar en las minas de diamante. Con historias de vida completamente distintas, pero unidos por el mismo propósito, se embarcarán en un viaje por territorio enemigo, en una trayectoria que podrá salvar a la familia de Solomon y darle a Archer una segunda oportunidad. Jennifer Connelly interpreta a una periodista norteamericana cuyo idealismo es condimentado por una profunda conexión con Archer.</desc>
+  </programme>
+  <programme start="20260917170800 -0500" stop="20260917195100 -0500" channel="TNT_CO.co">
+    <title lang="es">DIAMANTE DE SANGRE</title>
+    <desc lang="es">En el papel que le valió su tercera nominación al Oscar, Leonardo DiCaprio protagoniza  Diamante de Sangre como un mercenario que desea transformar su vida encontrando un raro diamante rosado. En el camino, estará acompañado por Solomon Vandy, un hombre que fue arrancado de su familia y forzado a trabajar en las minas de diamante. Con historias de vida completamente distintas, pero unidos por el mismo propósito, se embarcarán en un viaje por territorio enemigo, en una trayectoria que podrá salvar a la familia de Solomon y darle a Archer una segunda oportunidad. Jennifer Connelly interpreta a una periodista norteamericana cuyo idealismo es condimentado por una profunda conexión con Archer.</desc>
+  </programme>
+  <programme start="20260917172300 -0300" stop="20260917195500 -0300" channel="TNT_AR.ar">
+    <title lang="es">DIAMANTE DE SANGRE</title>
+    <desc lang="es">En el papel que le valió su tercera nominación al Oscar, Leonardo DiCaprio protagoniza  Diamante de Sangre como un mercenario que desea transformar su vida encontrando un raro diamante rosado. En el camino, estará acompañado por Solomon Vandy, un hombre que fue arrancado de su familia y forzado a trabajar en las minas de diamante. Con historias de vida completamente distintas, pero unidos por el mismo propósito, se embarcarán en un viaje por territorio enemigo, en una trayectoria que podrá salvar a la familia de Solomon y darle a Archer una segunda oportunidad. Jennifer Connelly interpreta a una periodista norteamericana cuyo idealismo es condimentado por una profunda conexión con Archer.</desc>
+  </programme>
+  <programme start="20260917174000 -0600" stop="20260917195700 -0600" channel="TNT_MX.mx">
+    <title lang="es">GLORIA</title>
+    <desc lang="es">La joven mexicana Gloria Treviño audiciona para popular compositor musical Sergio Andrade. Esto la convierte en miembro del grupo pop Boquitas Pintadas. Pero si bien la banda no consigue acumular demasiada fama, Sergio sabe que Gloria tiene un gran potencial como cantante solista. Pronto Gloria Trevi se convierte en una de las cantantes más exitosas de Latinoamérica hasta que, en un momento, queda atrapada en medio de un escándalo sexual.</desc>
+  </programme>
+  <programme start="20260917185900 -0300" stop="20260917190200 -0300" channel="TNT_BR.br">
+    <title lang="pt">MELHORES MOMENTOS EMMY AWARDS 2026</title>
+    <desc lang="pt">Confira os melhores momentos do Emmy Awards 2026 na TNT.</desc>
+  </programme>
+  <programme start="20260917190200 -0300" stop="20260917213200 -0300" channel="TNT_BR.br">
+    <title lang="pt" />
+    <desc lang="pt">No Rio dos anos 1990, policiais enfrentam uma onda de sequestros e corrupção sistêmica, revelando os bastidores violentos e divisões dentro das forças de segurança.</desc>
+  </programme>
+  <programme start="20260917194200 -0500" stop="20260917194500 -0500" channel="TNT_PAN.co">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917194500 -0500" stop="20260917220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">RENDIRSE JAMÁS</title>
+    <desc lang="es">Un adolescente frustrado y conflictivo llega a un nuevo instituto donde descubre la existencia de un club de lucha clandestino y conoce a un compañero que le obligará a pelear.</desc>
+  </programme>
+  <programme start="20260917195100 -0500" stop="20260917195400 -0500" channel="TNT_CO.co">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917195400 -0500" stop="20260917220000 -0500" channel="TNT_CO.co">
+    <title lang="es">RENDIRSE JAMÁS</title>
+    <desc lang="es">Un adolescente frustrado y conflictivo llega a un nuevo instituto donde descubre la existencia de un club de lucha clandestino y conoce a un compañero que le obligará a pelear.</desc>
+  </programme>
+  <programme start="20260917195500 -0300" stop="20260917195800 -0300" channel="TNT_AR.ar">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917195700 -0600" stop="20260917200000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260917195800 -0300" stop="20260917220000 -0300" channel="TNT_AR.ar">
+    <title lang="es">RENDIRSE JAMÁS</title>
+    <desc lang="es">Un adolescente frustrado y conflictivo llega a un nuevo instituto donde descubre la existencia de un club de lucha clandestino y conoce a un compañero que le obligará a pelear.</desc>
+  </programme>
+  <programme start="20260917200000 -0600" stop="20260917215600 -0600" channel="TNT_MX.mx">
+    <title lang="es">COMO AGUA PARA CHOCOLATE</title>
+    <desc lang="es">Historia sobre cómo una mujer se sobrepone a pérdidas, traiciones y un legado familiar para poder encontrar su destino junto al hombre que ama.</desc>
+  </programme>
+  <programme start="20260917213200 -0300" stop="20260917233000 -0300" channel="TNT_BR.br">
+    <title lang="pt">OS PARÇAS</title>
+    <desc lang="pt">Chantageados e enganados por um ambicioso trambiqueiro (Oscar Magrini), Toinho (Tom Cavalcante), Ray Van (Whindersson Nunes), Pilôra (Tirullipa) e Romeu (Bruno de Luca) precisam organizar uma festa inesquecível de casamento sem nenhum dinheiro no bolso. Caso falhem, terão que lidar com o maior contrabandista da famosa rua 25 de Março em São Paulo, que é também o pai da noiva (Paloma Bernardi).</desc>
+  </programme>
+  <programme start="20260917215600 -0600" stop="20260917235800 -0600" channel="TNT_MX.mx">
+    <title lang="es">RECIÉN CAZADO</title>
+    <desc lang="es">Sebastián, un joven y exitoso enólogo, es el soltero por excelencia, acostumbrado a una vida de excesos, lujos y muchas mujeres, un día despierta al lado de Alexa, una hermosa bióloga marina con quien, sin recordarlo y motivado por una tremenda borrachera, contrajo matrimonio la noche anterior. Aunque Sebastián agota todos los recursos por anular su espontáneo matrimonio, Alexa lo amenaza con quitarle la mitad de sus bienes si no acepta que ella se quede a vivir con él al menos tres semanas para asegurarse de no estar embarazada. Recién Cazado es una divertida lucha de sexos, en donde Sebastián y Alexa tendrán que aprender a tolerarse, convivir, compartir y dejar atrás sus más intensas extravagancias de solteros para dar paso al verdadero amor.</desc>
+  </programme>
+  <programme start="20260917220000 -0300" stop="20260918002800 -0300" channel="TNT_AR.ar">
+    <title lang="es">FRANCOTIRADOR</title>
+    <desc lang="es">Chris Kyle creció en Texas, y su padre le enseñó a disparar. En 1998, decide alistarse en el ejército y se convierte en francotirador para los Navy SEALs. Kyle conoce a Taya Studebaker en un bar, y pronto se casan. Luego de los ataques del 11 de septiembre, Chris es enviado a Irak. Un tiempo después, Kyle vuelve a casa y presencia el nacimiento de su hijo, pero los recuerdos de la guerra lo atormentan. Luego vuelve a Irak. Su objetivo será derrotar a Mustafa, un francotirador y medallista olímpico sirio.</desc>
+  </programme>
+  <programme start="20260917220000 -0500" stop="20260918002300 -0500" channel="TNT_CO.co">
+    <title lang="es">FRANCOTIRADOR</title>
+    <desc lang="es">Chris Kyle creció en Texas, y su padre le enseñó a disparar. En 1998, decide alistarse en el ejército y se convierte en francotirador para los Navy SEALs. Kyle conoce a Taya Studebaker en un bar, y pronto se casan. Luego de los ataques del 11 de septiembre, Chris es enviado a Irak. Un tiempo después, Kyle vuelve a casa y presencia el nacimiento de su hijo, pero los recuerdos de la guerra lo atormentan. Luego vuelve a Irak. Su objetivo será derrotar a Mustafa, un francotirador y medallista olímpico sirio.</desc>
+  </programme>
+  <programme start="20260917220000 -0500" stop="20260918002900 -0500" channel="TNT_PAN.co">
+    <title lang="es">FRANCOTIRADOR</title>
+    <desc lang="es">Chris Kyle creció en Texas, y su padre le enseñó a disparar. En 1998, decide alistarse en el ejército y se convierte en francotirador para los Navy SEALs. Kyle conoce a Taya Studebaker en un bar, y pronto se casan. Luego de los ataques del 11 de septiembre, Chris es enviado a Irak. Un tiempo después, Kyle vuelve a casa y presencia el nacimiento de su hijo, pero los recuerdos de la guerra lo atormentan. Luego vuelve a Irak. Su objetivo será derrotar a Mustafa, un francotirador y medallista olímpico sirio.</desc>
+  </programme>
+  <programme start="20260917233000 -0300" stop="20260917235400 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA EMPREGOS DE MEIO PERÍODO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260917235400 -0300" stop="20260918001700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O NATAL</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260917235800 -0600" stop="20260918021000 -0600" channel="TNT_MX.mx">
+    <title lang="es">V DE VENGANZA</title>
+    <desc lang="es">Un anónimo defensor de la libertad conocido simplemente como "V" (Hugo Tecendo) usa tácticas terroristas para luchar contra una Gran Bretaña totalitaria en un escenario futurístico. V salva a una joven llamada Evey (Natalie Portman) de una situación de vida o muerte, y ella inmediatamente se convierte en su improbable aliada en el punto máximo de su trama para recuperar la libertad y la justicia para una sociedad repleta de crueldad y corrupción.</desc>
+  </programme>
+  <programme start="20260918001700 -0300" stop="20260918004100 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA DIA DA FOTO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260918002300 -0500" stop="20260918023600 -0500" channel="TNT_CO.co">
+    <title lang="es">V DE VENGANZA</title>
+    <desc lang="es">Un anónimo defensor de la libertad conocido simplemente como "V" (Hugo Tecendo) usa tácticas terroristas para luchar contra una Gran Bretaña totalitaria en un escenario futurístico. V salva a una joven llamada Evey (Natalie Portman) de una situación de vida o muerte, y ella inmediatamente se convierte en su improbable aliada en el punto máximo de su trama para recuperar la libertad y la justicia para una sociedad repleta de crueldad y corrupción.</desc>
+  </programme>
+  <programme start="20260918002800 -0300" stop="20260918024400 -0300" channel="TNT_AR.ar">
+    <title lang="es">V DE VENGANZA</title>
+    <desc lang="es">Un anónimo defensor de la libertad conocido simplemente como "V" (Hugo Tecendo) usa tácticas terroristas para luchar contra una Gran Bretaña totalitaria en un escenario futurístico. V salva a una joven llamada Evey (Natalie Portman) de una situación de vida o muerte, y ella inmediatamente se convierte en su improbable aliada en el punto máximo de su trama para recuperar la libertad y la justicia para una sociedad repleta de crueldad y corrupción.</desc>
+  </programme>
+  <programme start="20260918002900 -0500" stop="20260918024300 -0500" channel="TNT_PAN.co">
+    <title lang="es">V DE VENGANZA</title>
+    <desc lang="es">Un anónimo defensor de la libertad conocido simplemente como "V" (Hugo Tecendo) usa tácticas terroristas para luchar contra una Gran Bretaña totalitaria en un escenario futurístico. V salva a una joven llamada Evey (Natalie Portman) de una situación de vida o muerte, y ella inmediatamente se convierte en su improbable aliada en el punto máximo de su trama para recuperar la libertad y la justicia para una sociedad repleta de crueldad y corrupción.</desc>
+  </programme>
+  <programme start="20260918004100 -0300" stop="20260918010300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O DIA DOS NAMORADOS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260918010300 -0300" stop="20260918012500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA LOTERIA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260918012500 -0300" stop="20260918014900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">PERCAS</sub-title>
+    <desc lang="pt">Will e Carlton vão para Las Vegas comemorar o aniversário de 21 anos de Carlton e um deles acaba se viciando nos jogos.</desc>
+  </programme>
+  <programme start="20260918014900 -0300" stop="20260918022500 -0300" channel="TNT_BR.br">
+    <title lang="pt">LIGA ESPETACULAR</title>
+    <desc lang="pt">O Liga Espetacular reúne num só lugar todos os motivos que fazem da Liga dos Campeões o melhor torneio de clubes do mundo. Nas semanas de rodada, todos os melhores momentos, os golaços, os ângulos que ainda ninguém viu estão no cardápio do programa. Além disso, as equipes do Esporte Interativo, espalhadas pela Europa, trazem reportagens especiais, entrevistas exclusivas e todos os passos dos brasileiros que brilham no Velho Continente.</desc>
+  </programme>
+  <programme start="20260918021000 -0600" stop="20260918034700 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260918022500 -0300" stop="20260918024700 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">AÍ ESTÁ, PARTE I</sub-title>
+    <desc lang="pt">Will deve julgar quem faz o melhor recheio da família. Hilary e Carlton aprendem o verdadeiro significado do Dia de Ação de Graças. E a cura de Will para a dor nas costas do Phil leva os dois para a cadeia.</desc>
+  </programme>
+  <programme start="20260918023600 -0500" stop="20260918041200 -0500" channel="TNT_CO.co">
+    <title lang="es" />
+  </programme>
+  <programme start="20260918024300 -0500" stop="20260918041800 -0500" channel="TNT_PAN.co">
+    <title lang="es" />
+  </programme>
+  <programme start="20260918024400 -0300" stop="20260918041800 -0300" channel="TNT_AR.ar">
+    <title lang="es" />
+  </programme>
+  <programme start="20260918024700 -0300" stop="20260918031000 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">AÍ ESTÁ, PARTE II</sub-title>
+    <desc lang="pt">Will deve julgar quem faz o melhor recheio da família. Hilary e Carlton aprendem o verdadeiro significado do Dia de Ação de Graças. E a cura de Will para a dor nas costas do Phil leva os dois para a cadeia</desc>
+  </programme>
+  <programme start="20260918031000 -0300" stop="20260918033200 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">EU...</sub-title>
+    <desc lang="pt">Insatisfeita, mesmo depois de sua estreia na TV em rede nacional, Hilary conclui que quer ter um filho. A família Banks comemora o Natal.</desc>
+  </programme>
+  <programme start="20260918033200 -0300" stop="20260918053700 -0300" channel="TNT_BR.br">
+    <title lang="pt">V DE VINGANÇA</title>
+    <desc lang="pt">Um justiceiro sombrio conhecido simplesmente como 'V' (Hugo Weaving) usa táticas terroristas para lutar contra o totalitarismo britânico em um cenário futurístico. Ele salva uma jovem chamada Evey (Natalie Portman) de uma situação de vida ou morte e, logo, ela se torna sua aliada nos planos de resgatar a liberdade e a justiça em uma sociedade tomada pela crueldade e corrupção.</desc>
+  </programme>
+  <programme start="20260918034700 -0600" stop="20260918051600 -0600" channel="TNT_MX.mx">
+    <title lang="es">MI TEORIA DE LA POPULARIDAD</title>
+  </programme>
+  <programme start="20260918041200 -0500" stop="20260918054100 -0500" channel="TNT_CO.co">
+    <title lang="es">MI TEORIA DE LA POPULARIDAD</title>
+  </programme>
+  <programme start="20260918041800 -0300" stop="20260918054500 -0300" channel="TNT_AR.ar">
+    <title lang="es">MI TEORIA DE LA POPULARIDAD</title>
+  </programme>
+  <programme start="20260918041800 -0500" stop="20260918054900 -0500" channel="TNT_PAN.co">
+    <title lang="es">MI TEORIA DE LA POPULARIDAD</title>
+  </programme>
+  <programme start="20260918051600 -0600" stop="20260918055100 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260918053700 -0300" stop="20260918055000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260918054100 -0500" stop="20260918060000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260918054500 -0300" stop="20260918060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260918054900 -0500" stop="20260918060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260918055000 -0300" stop="20260918060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260918055100 -0600" stop="20260918060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
 </tv>
