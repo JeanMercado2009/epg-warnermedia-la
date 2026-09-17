@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Guia de Programacion TNT MultiFeed">
+  <!-- CANALES VÁLIDOS -->
+  <channel id="TNT_MX.mx">
+    <display-name>TNT México</display-name>
+  </channel>
+  <channel id="TNT_CO.co">
+    <display-name>TNT Colombia</display-name>
+  </channel>
+  <channel id="TNT_PAN.co">
+    <display-name>TNT Panregional</display-name>
+  </channel>
+  <channel id="TNT_BR.br">
+    <display-name>TNT Brasil HD</display-name>
+  </channel>
+  <channel id="TNT_AR.ar">
+    <display-name>TNT Argentina</display-name>
+  </channel>
+  <channel id="TNT_CL.cl">
+    <display-name>TNT Chile</display-name>
+  </channel>
+</tv>
