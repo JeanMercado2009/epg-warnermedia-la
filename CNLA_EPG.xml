@@ -14400,6 +14400,7 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918073600 -0500" stop="20260918074900 -0500" channel="CNLA_PAN.co">
     <title lang="es">Escandalositos</title>
+    <desc lang="es">Tres hermanos osos bebés reciben una caja mágica que puede transportarlos a cualquier lugar del universo.</desc>
   </programme>
   <programme start="20260918074400 -0300" stop="20260918075600 -0300" channel="CNLA_BR.br">
     <title lang="pt">IRMÃO DO JOREL</title>
@@ -14408,6 +14409,7 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918074900 -0500" stop="20260918080100 -0500" channel="CNLA_PAN.co">
     <title lang="es">Escandalositos</title>
+    <desc lang="es">Los hermanos osos, Grizz, Panda y Oso Polar viven aventuras en diferentes lugares del mundo, en su viaje para encontrar un hogar permanente perfecto. En este episodio, Los Osos se encuentran en un antiguo balneario egipcio, pero Pardo se niega a bañarse.</desc>
   </programme>
   <programme start="20260918075600 -0300" stop="20260918080700 -0300" channel="CNLA_BR.br">
     <title lang="pt">IRMÃO DO JOREL</title>
@@ -14416,6 +14418,8 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918080100 -0500" stop="20260918081400 -0500" channel="CNLA_PAN.co">
     <title lang="es">Un Show Más: Las Cintas Perdidas</title>
+    <sub-title lang="es">Lugar de Siesta</sub-title>
+    <desc lang="es">Mordecai y Rigby buscan el escondite de Bullebak y se pierden en un mundo de ensueño.</desc>
   </programme>
   <programme start="20260918080700 -0300" stop="20260918081900 -0300" channel="CNLA_BR.br">
     <title lang="pt" />
