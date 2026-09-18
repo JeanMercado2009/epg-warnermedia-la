@@ -14418,7 +14418,7 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918080100 -0500" stop="20260918081400 -0500" channel="CNLA_PAN.co">
     <title lang="es">Un Show Más: Las Cintas Perdidas</title>
-    <sub-title lang="es">Lugar de Siesta</sub-title>
+    <sub-title lang="es">T1 E4 - Lugar de Siesta</sub-title>
     <desc lang="es">Mordecai y Rigby buscan el escondite de Bullebak y se pierden en un mundo de ensueño.</desc>
   </programme>
   <programme start="20260918080700 -0300" stop="20260918081900 -0300" channel="CNLA_BR.br">
@@ -14460,6 +14460,8 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918090300 -0500" stop="20260918092900 -0500" channel="CNLA_PAN.co">
     <title lang="es">El Chapulín Y Los Colorado</title>
+    <sub-title lang="es">Y colorín colorado, este cuento no ha terminado</sub-title>
+    <desc lang="es">Los Colorados caen bajo el hechizo de la Madrastra, quien los encierra en un cuento de hadas. Allí, cada uno enfrenta sus miedos. Sin embargo, con la ayuda del Sr. Boulder y los Churi Churin Fun Flais, intentarán derrotar a la Madrastra para liberarse.</desc>
   </programme>
   <programme start="20260918090500 -0300" stop="20260918091800 -0300" channel="CNLA_BR.br">
     <title lang="pt" />
@@ -14472,9 +14474,13 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918092900 -0500" stop="20260918094000 -0500" channel="CNLA_PAN.co">
     <title lang="es">El Maravillosamente Extraño Mundo de Gumball</title>
+    <sub-title lang="es">T1 E10 - La maestra</sub-title>
+    <desc lang="es">Gumball quiere vengarse de la Señorita Simian tras castigarlo por no cuidar la calculadora del colegio.</desc>
   </programme>
   <programme start="20260918094000 -0500" stop="20260918095400 -0500" channel="CNLA_PAN.co">
     <title lang="es">El Maravillosamente Extraño Mundo de Gumball</title>
+    <sub-title lang="es">T1 E3 - La distancia</sub-title>
+    <desc lang="es">Gumball debe encontrar una manera de salvar su relación con Darwin, luego de que los chicos se ven obligados a vivir en habitaciones separadas.</desc>
   </programme>
   <programme start="20260918094100 -0300" stop="20260918095200 -0300" channel="CNLA_BR.br">
     <title lang="pt" />
@@ -14484,6 +14490,8 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918095400 -0500" stop="20260918100600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El Maravillosamente Extraño Mundo de Gumball</title>
+    <sub-title lang="es">T1 E15 - La arruga</sub-title>
+    <desc lang="es">Anais comienza a envejecer prematuramente como consecuencia del estrés y la presión de cuidar al resto de su estúpida familia.</desc>
   </programme>
   <programme start="20260918100500 -0300" stop="20260918101600 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -14510,7 +14518,8 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918103000 -0500" stop="20260918104400 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
+    <sub-title lang="es">Villanos al volante buscando helado</sub-title>
+    <desc lang="es">En un viaje, cuatro de los mayores villanos de los Titanes, recuerdan sus incidentes pasados y cómo los Titanes los terminaron perjudicando.</desc>
   </programme>
   <programme start="20260918103800 -0300" stop="20260918104900 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -14528,15 +14537,20 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918105500 -0500" stop="20260918110600 -0500" channel="CNLA_PAN.co">
     <title lang="es">Un Show Más: Las Cintas Perdidas</title>
+    <sub-title lang="es">T1 E9 - Mitch: El rematador</sub-title>
+    <desc lang="es">Musculoso revela su pasado secreto.</desc>
   </programme>
   <programme start="20260918110000 -0300" stop="20260918112400 -0300" channel="CNLA_BR.br">
     <title lang="pt" />
   </programme>
   <programme start="20260918110600 -0500" stop="20260918112000 -0500" channel="CNLA_PAN.co">
     <title lang="es">Un Show Más: Las Cintas Perdidas</title>
+    <sub-title lang="es">T1 E10 - Los Zancos</sub-title>
+    <desc lang="es">Rigby quiere que alguien tome esta foto, de verdad.</desc>
   </programme>
   <programme start="20260918112000 -0500" stop="20260918113300 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
+    <sub-title lang="es">T5 E36 - Las marionetas</sub-title>
     <desc lang="es">Darwin se alegra cuando encuentran los juguetes viejos de su infancia, pero pronto se da cuenta de que es mejor que algunas cosas queden en el pasado.</desc>
   </programme>
   <programme start="20260918112400 -0300" stop="20260918113000 -0300" channel="CNLA_BR.br">
@@ -14547,6 +14561,7 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918113300 -0500" stop="20260918114700 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
+    <sub-title lang="es">T6 E32 - El amo</sub-title>
     <desc lang="es">Los Watterson juegan un juego de rol fantástico para resolver sus diferencias.</desc>
   </programme>
   <programme start="20260918114100 -0300" stop="20260918115200 -0300" channel="CNLA_BR.br">
@@ -14554,6 +14569,7 @@ Episodio con temática de Noche de Brujas.</desc>
   </programme>
   <programme start="20260918114700 -0500" stop="20260918115900 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
+    <sub-title lang="es">T6 E9 - La fe</sub-title>
     <desc lang="es">Alan perdió su fe en la humanidad y puso el mundo blanco y negro. Gumball tiene que superar el odio que siente hacia Alan para recuperar el color a través del canto.</desc>
   </programme>
   <programme start="20260918115200 -0300" stop="20260918120400 -0300" channel="CNLA_BR.br">
