@@ -21,62 +21,11 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260902201800 -0500" stop="20260902220000 -0500" channel="WARNER_AN.co">
-    <title lang="es">Jack y Jill</title>
-  </programme>
-  <programme start="20260902201800 -0600" stop="20260902220000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Jack y Jill</title>
-  </programme>
-  <programme start="20260902201900 -0500" stop="20260902220000 -0500" channel="WARNER_CO.co">
-    <title lang="es">Jack y Jill</title>
-  </programme>
-  <programme start="20260902220000 -0300" stop="20260903000400 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Jack, el Cazagigantes</title>
-    <desc lang="es">El tío de Jack le encomienda ir al pueblo a vender un caballo. Allí, Jack salva a la princesa Isabelle, quien está siendo acosada por unos matones. Jack vuelve a casa sin el caballo pero con unas habichuelas que le dio un monje y que, supuestamente, tienen propiedades mágicas. Esa noche, Isabelle se aparece en la casa de Jack, ya que no quiere casarse con el ambicioso Roderick. La lluvia hace que las habichuelas se conviertan en una planta gigante que se lleva a Isabelle al cielo, donde viven gigantes, y Jack deberá subir a rescatarla.</desc>
-  </programme>
-  <programme start="20260902220000 -0400" stop="20260903000700 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Jack, el Cazagigantes</title>
-    <desc lang="es">El tío de Jack le encomienda ir al pueblo a vender un caballo. Allí, Jack salva a la princesa Isabelle, quien está siendo acosada por unos matones. Jack vuelve a casa sin el caballo pero con unas habichuelas que le dio un monje y que, supuestamente, tienen propiedades mágicas. Esa noche, Isabelle se aparece en la casa de Jack, ya que no quiere casarse con el ambicioso Roderick. La lluvia hace que las habichuelas se conviertan en una planta gigante que se lleva a Isabelle al cielo, donde viven gigantes, y Jack deberá subir a rescatarla.</desc>
-  </programme>
-  <programme start="20260902220000 -0400" stop="20260902235400 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Jack, el Cazagigantes</title>
-    <desc lang="es">El tío de Jack le encomienda ir al pueblo a vender un caballo. Allí, Jack salva a la princesa Isabelle, quien está siendo acosada por unos matones. Jack vuelve a casa sin el caballo pero con unas habichuelas que le dio un monje y que, supuestamente, tienen propiedades mágicas. Esa noche, Isabelle se aparece en la casa de Jack, ya que no quiere casarse con el ambicioso Roderick. La lluvia hace que las habichuelas se conviertan en una planta gigante que se lleva a Isabelle al cielo, donde viven gigantes, y Jack deberá subir a rescatarla.</desc>
-  </programme>
-  <programme start="20260902220000 -0500" stop="20260902235800 -0500" channel="WARNER_CO.co">
-    <title lang="es">Jack, el Cazagigantes</title>
-    <desc lang="es">El tío de Jack le encomienda ir al pueblo a vender un caballo. Allí, Jack salva a la princesa Isabelle, quien está siendo acosada por unos matones. Jack vuelve a casa sin el caballo pero con unas habichuelas que le dio un monje y que, supuestamente, tienen propiedades mágicas. Esa noche, Isabelle se aparece en la casa de Jack, ya que no quiere casarse con el ambicioso Roderick. La lluvia hace que las habichuelas se conviertan en una planta gigante que se lleva a Isabelle al cielo, donde viven gigantes, y Jack deberá subir a rescatarla.</desc>
-  </programme>
-  <programme start="20260902220000 -0500" stop="20260902235800 -0500" channel="WARNER_AN.co">
-    <title lang="es">Jack, el Cazagigantes</title>
-    <desc lang="es">El tío de Jack le encomienda ir al pueblo a vender un caballo. Allí, Jack salva a la princesa Isabelle, quien está siendo acosada por unos matones. Jack vuelve a casa sin el caballo pero con unas habichuelas que le dio un monje y que, supuestamente, tienen propiedades mágicas. Esa noche, Isabelle se aparece en la casa de Jack, ya que no quiere casarse con el ambicioso Roderick. La lluvia hace que las habichuelas se conviertan en una planta gigante que se lleva a Isabelle al cielo, donde viven gigantes, y Jack deberá subir a rescatarla.</desc>
-  </programme>
   <programme start="20260902220000 -0600" stop="20260903000000 -0600" channel="WARNER_MX.mx">
     <title lang="es">Jack, el Cazagigantes</title>
     <desc lang="es">El tío de Jack le encomienda ir al pueblo a vender un caballo. Allí, Jack salva a la princesa Isabelle, quien está siendo acosada por unos matones. Jack vuelve a casa sin el caballo pero con unas habichuelas que le dio un monje y que, supuestamente, tienen propiedades mágicas. Esa noche, Isabelle se aparece en la casa de Jack, ya que no quiere casarse con el ambicioso Roderick. La lluvia hace que las habichuelas se conviertan en una planta gigante que se lleva a Isabelle al cielo, donde viven gigantes, y Jack deberá subir a rescatarla.</desc>
   </programme>
-  <programme start="20260902223000 -0300" stop="20260903002400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Jack, O Caçador de Gigantes</title>
-    <desc lang="pt">O camponês Jack e a princesa Isabelle cresceram ouvindo histórias sobre gigantes, seres sedentos por sangue que vivem entre o céu e a terra. Após invadirem os reinos humanos há milhares de anos, as criaturas foram vencidas por um rei em posse de um artefato criado a partir do coração de um dos monstros. Após a vitória, o monarca mandou cortar o enorme pé de feijão que ligava os dois mundos. Entretanto, a lenda vira pesadelo quando Jack troca o cavalo de seu tio por feijões mágicos e, inadvertidamente, recria a ligação entre os mundos, colocando a princesa em perigo. Lutando por seu povo e pelo amor da princesa, Jack fica frente a frente com os guerreiros incansáveis que pensava serem apenas uma lenda</desc>
-  </programme>
-  <programme start="20260902235400 -0400" stop="20260903001600 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260902235800 -0500" stop="20260903002200 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260902235800 -0500" stop="20260903002100 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260903000000 -0600" stop="20260903002300 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903000400 -0300" stop="20260903002900 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903000700 -0400" stop="20260903003000 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903001600 -0400" stop="20260903003900 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260903002100 -0500" stop="20260903004300 -0500" channel="WARNER_AN.co">
@@ -88,50 +37,17 @@
   <programme start="20260903002300 -0600" stop="20260903004700 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260903002400 -0300" stop="20260903004700 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">UNFORTUNATE LITTLE SCHNAUSER, THE</sub-title>
-    <desc lang="pt">Charlie é apresentado como candidato para um prêmio de publicidade, mas se recusa a ir ao banquete de premiação por que já perdeu para Archie por vários anos seguidos. Archie é seu extremamente envaidecido concorrente. Depois de usarem um truque para fazer com que Charlie compareça ao evento, Alan, Evelyn e Jake acompanham Charlie à premiação para dar-lhe apoio; eles então têm a oportunidade de conhecer Archie. Ao mesmo tempo, Rose convence Charlie a dar conselhos sobre relacionamentos para o seu novo namorado.</desc>
-  </programme>
-  <programme start="20260903002900 -0300" stop="20260903005300 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903003000 -0400" stop="20260903005300 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903003900 -0400" stop="20260903010200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260903004300 -0500" stop="20260903010600 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260903004600 -0500" stop="20260903011000 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260903004700 -0300" stop="20260903011000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">SPLIT-COVERED COBBLER, THE</sub-title>
-    <desc lang="pt">Alan se mete em problemas financeiros por estar pagando as despesas de sua jovem namorada, Kandi. Quando o carro dela quebra, Alan aluga um novo para ela usar. Charlie o aconselha a terminar o namoro com kandi, mas Alan gasta seu último centavo no tratamento de canal de Kandy e não tem dinheiro para pagar a pensão de Judith, obrigando Charlie a ajudá-lo.</desc>
-  </programme>
   <programme start="20260903004700 -0600" stop="20260903011000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903005300 -0300" stop="20260903011800 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903005300 -0400" stop="20260903011600 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903010200 -0400" stop="20260903012500 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260903010600 -0500" stop="20260903013000 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903011000 -0300" stop="20260903013400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">GOLLY MOSES, SHE'S A MUFFIN</sub-title>
-    <desc lang="pt">Kandi se muda para a casa de Alan e Charlie, causando uma grande tensão na casa. Charlie não se alegra quando descobre o novo arranjo, considerando que está passando por uma seca no que concerne às mulheres. Entretanto, as coisas começam a melhorar para Charlie quando Judith se torna amiga de Kandi e uma visita especial aparece na sua porta.</desc>
   </programme>
   <programme start="20260903011000 -0500" stop="20260903013400 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -140,9 +56,6 @@
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260903011600 -0400" stop="20260903014100 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903011800 -0300" stop="20260903014400 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260903012500 -0400" stop="20260903014800 -0400" channel="WARNER_VE.ve">
@@ -154,18 +67,10 @@
   <programme start="20260903013300 -0600" stop="20260903015500 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260903013400 -0300" stop="20260903015700 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ALWAYS A BRIDESMAID NEVER A BURRO</sub-title>
-    <desc lang="pt">Agora Charlie está saindo com Mandi, a mãe de Kandi. Alan está deprimido porque Kandi o deixou e se foi viver com a amargurada Judith, que lhe fez uma lavagem cerebral e a colocou contra ele. Por insistência de Mandi, Alan vai até a casa de Judith para tentar recuperar Kandi sem saber a surpresa que o espera.</desc>
-  </programme>
   <programme start="20260903013400 -0500" stop="20260903015700 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260903014100 -0400" stop="20260903020400 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903014400 -0300" stop="20260903020800 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260903014800 -0400" stop="20260903021000 -0400" channel="WARNER_VE.ve">
@@ -176,11 +81,6 @@
   </programme>
   <programme start="20260903015500 -0600" stop="20260903021800 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260903015700 -0300" stop="20260903022000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">AND THE PLOT MOISTENS</sub-title>
-    <desc lang="pt">Francine, a professora de Jake, se reúne com Alan e Judith em sua sala para discutir a falta de interesse de Jake pela escola. Desesperado por comunicar-se com alguém inteligente enquanto continua saindo com Kandi, sua namorada cabeça oca, Alan se apaixona por Francine - só que de forma platônica. Charlie ajuda Jake a se preparar para um teste musical escolar a qual Alan e Judith o obrigam a participar.</desc>
   </programme>
   <programme start="20260903015700 -0500" stop="20260903022000 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
