@@ -1321,4 +1321,408 @@
   <programme start="20260920055000 -0500" stop="20260920060000 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
   </programme>
+  <programme start="20260920060000 -0300" stop="20260920063500 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20260920060000 -0300" stop="20260920075300 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL JUEGO DEL CRIMEN</title>
+    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
+  </programme>
+  <programme start="20260920060000 -0400" stop="20260920072800 -0400" channel="TNT_CL.cl">
+    <title lang="es">MISFITS</title>
+    <desc lang="es">Luego de escapar de una cárcel de máxima seguridad, el famoso delincuente Richard Pace (Pierce Brosnan) es reclutado por una banda de ladrones al estilo Robin Hood para realizar el robo más importante del siglo y de paso desfinanciar a grupos terroristas a nivel mundial. Del director de "Duro de Matar 2" y con la participación de Tim Roth.</desc>
+  </programme>
+  <programme start="20260920060000 -0500" stop="20260920075000 -0500" channel="TNT_CO.co">
+    <title lang="es">EL JUEGO DEL CRIMEN</title>
+    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
+  </programme>
+  <programme start="20260920060000 -0500" stop="20260920060200 -0500" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260920060000 -0600" stop="20260920064200 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260920060200 -0500" stop="20260920075300 -0500" channel="TNT_PAN.co">
+    <title lang="es">SIN LÍMITES</title>
+    <desc lang="es">Al enfrentar el desempleo y el rechazo de su novia, el escritor Eddie Morra está seguro de que no tiene futuro. Todo eso cambia cuando un viejo amigo le da una droga que produce una mayor agudeza mental. Avivado por el químico, que no ha sido analizado, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna. Pero los terribles efectos secundarios y un abastecimiento decreciente amenazan con hacer caer el castillo de naipes de Eddie.</desc>
+  </programme>
+  <programme start="20260920063500 -0300" stop="20260920064900 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260920064200 -0600" stop="20260920065000 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260920064900 -0300" stop="20260920070100 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260920065000 -0600" stop="20260920070000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260920070000 -0600" stop="20260920090000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260920070100 -0300" stop="20260920092300 -0300" channel="TNT_BR.br">
+    <title lang="pt">KARATE KID</title>
+    <desc lang="pt">Dre Parker, um garoto de 12 anos muda para a China devido ao trabalho da mãe. Logo ao chegar em Pequim, ele se apaixona por sua colega de classe Mei Tin. A aproximação deles provoca a irritação de Cheng, um garoto prodígio no kung fu e o brigão da sala. Sem amigos na cidade, Dre recorre ao zelador de seu prédio que é mestre em kung fu. Han ensina Dre que kung fu é muito mais que socos e habilidades, mas sim maturidade e calma.</desc>
+  </programme>
+  <programme start="20260920072800 -0400" stop="20260920080600 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260920075000 -0500" stop="20260920080300 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260920075300 -0300" stop="20260920081100 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260920075300 -0500" stop="20260920093800 -0500" channel="TNT_PAN.co">
+    <title lang="es">SULLY</title>
+    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
+  </programme>
+  <programme start="20260920080300 -0500" stop="20260920081500 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260920080600 -0400" stop="20260920094900 -0400" channel="TNT_CL.cl">
+    <title lang="es">SULLY</title>
+    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
+  </programme>
+  <programme start="20260920081100 -0300" stop="20260920095800 -0300" channel="TNT_AR.ar">
+    <title lang="es">SULLY</title>
+    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
+  </programme>
+  <programme start="20260920081500 -0500" stop="20260920095400 -0500" channel="TNT_CO.co">
+    <title lang="es">SULLY</title>
+    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
+  </programme>
+  <programme start="20260920090000 -0600" stop="20260920091000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260920091000 -0600" stop="20260920093000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260920092300 -0300" stop="20260920094700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA MENTIROSO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920093000 -0600" stop="20260920113000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260920093800 -0500" stop="20260920115700 -0500" channel="TNT_PAN.co">
+    <title lang="es">UNA TORMENTA PERFECTA</title>
+    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
+  </programme>
+  <programme start="20260920094700 -0300" stop="20260920101100 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O MALVO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920094900 -0400" stop="20260920120700 -0400" channel="TNT_CL.cl">
+    <title lang="es">UNA TORMENTA PERFECTA</title>
+    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
+  </programme>
+  <programme start="20260920095400 -0500" stop="20260920121400 -0500" channel="TNT_CO.co">
+    <title lang="es">UNA TORMENTA PERFECTA</title>
+    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
+  </programme>
+  <programme start="20260920095800 -0300" stop="20260920122000 -0300" channel="TNT_AR.ar">
+    <title lang="es">UNA TORMENTA PERFECTA</title>
+    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
+  </programme>
+  <programme start="20260920101100 -0300" stop="20260920103500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA SISTEMA DE DUPLAS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920103500 -0300" stop="20260920105800 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA PROMESSAS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920105800 -0300" stop="20260920112000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A PRISÃO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920112000 -0300" stop="20260920114200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A CORLEONE</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920113000 -0600" stop="20260920114500 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+  </programme>
+  <programme start="20260920114200 -0300" stop="20260920120600 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA REJEIÇÃO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920114500 -0600" stop="20260920141000 -0600" channel="TNT_MX.mx">
+    <title lang="es">KARATE KID</title>
+    <desc lang="es">Poco después de mudarse de Detroit a Pekín con su madre, Dre, un niño de doce años, es brutalmente atacado por Cheng, un joven bravucón y prodigio del kung fu. Cheng y sus amigos continúan acosando a Dre a diario, hasta que un día el señor Han, el empleado de mantenimiento del edificio donde vive Dre, presencia un ataque y acude a su auxilio, desplegando increíbles habilidades para el kung fu. Han accede a entrenar a Dre para un torneo abierto y le enseña que el kung fu no se trata de golpes y poder, sino de serenidad y madurez.</desc>
+  </programme>
+  <programme start="20260920115700 -0500" stop="20260920141100 -0500" channel="TNT_PAN.co">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20260920120600 -0300" stop="20260920122800 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA ELEIÇÕES</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920120700 -0400" stop="20260920141800 -0400" channel="TNT_CL.cl">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20260920121400 -0500" stop="20260920142000 -0500" channel="TNT_CO.co">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20260920122000 -0300" stop="20260920143400 -0300" channel="TNT_AR.ar">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20260920122800 -0300" stop="20260920125200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA MENTIROSO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920125200 -0300" stop="20260920131500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O MALVO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920131500 -0300" stop="20260920133900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA SISTEMA DE DUPLAS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920133900 -0300" stop="20260920140300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA PROMESSAS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20260920140300 -0300" stop="20260920154900 -0300" channel="TNT_BR.br">
+    <title lang="pt">PREMONIÇÃO</title>
+    <desc lang="pt">A bordo de um avião prestes a partir rumo à França, Alex tem uma premonição e é retirado junto com alguns amigos. Logo em seguida, todos vêem a aeronave explodir no ar, matando todos os passageiros. Misteriosamente, aqueles que se separaram do grupo vão morrendo um a um.</desc>
+  </programme>
+  <programme start="20260920141000 -0600" stop="20260920162600 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL ATAQUE</title>
+    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
+  </programme>
+  <programme start="20260920141100 -0500" stop="20260920163600 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL ATAQUE</title>
+    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
+  </programme>
+  <programme start="20260920141800 -0400" stop="20260920163800 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL ATAQUE</title>
+    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
+  </programme>
+  <programme start="20260920142000 -0500" stop="20260920164300 -0500" channel="TNT_CO.co">
+    <title lang="es">EL ATAQUE</title>
+    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
+  </programme>
+  <programme start="20260920143400 -0300" stop="20260920162900 -0300" channel="TNT_AR.ar">
+    <title lang="es">UN NOVIO PARA MI MUJER</title>
+    <desc lang="es">Tenso alcanzó el límite de su paciencia con su mujer. La hermosa, pero extremadamente temperamental Tana está siempre protestando. Pero infelizmente Tenso no tiene el coraje de pedir el divorcio. Así, cuando su amigo Carlos le sugiere que incite a Tana a serle infiel, convence a un famoso Don Juan local para que la seduzca.</desc>
+  </programme>
+  <programme start="20260920154900 -0300" stop="20260920180800 -0300" channel="TNT_BR.br">
+    <title lang="pt">O ATAQUE</title>
+    <desc lang="pt">John Cale é um ex-militar que trabalha atualmente na segurança do Congresso Americano. O seu sonho é fazer parte do Serviço Secreto e impressionar Emily, sua filha que tem como maior ídolo o Presidente dos Estados Unidos. Após muito esforço, John consegue uma entrevista para o sonhado posto e leva sua filha para conhecer a Casa Branca. Ele apenas não sabia que o maior símbolo da política americana seria invadido naquele dia por um grupo de terroristas. Em meio a todo o caos que toma conta do lugar, John precisa tomar escolhas difíceis para, ao mesmo tempo, tentar manter o Presidente americano a salvo das ameaças, sua filha a salvo dos extremistas e o país livre desse perigo.</desc>
+  </programme>
+  <programme start="20260920162600 -0600" stop="20260920183600 -0600" channel="TNT_MX.mx">
+    <title lang="es">Warcraft: El Primer Encuentro de Dos Mundos</title>
+    <desc lang="es">En esta épica aventura basada en el famoso videojuego, un humano y un orco se unen para detener el verdadero mal detrás de su guerra.</desc>
+  </programme>
+  <programme start="20260920162900 -0300" stop="20260920190200 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL ATAQUE</title>
+    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
+  </programme>
+  <programme start="20260920163600 -0500" stop="20260920185500 -0500" channel="TNT_PAN.co">
+    <title lang="es">Warcraft: El Primer Encuentro de Dos Mundos</title>
+    <desc lang="es">En esta épica aventura basada en el famoso videojuego, un humano y un orco se unen para detener el verdadero mal detrás de su guerra.</desc>
+  </programme>
+  <programme start="20260920163800 -0400" stop="20260920184800 -0400" channel="TNT_CL.cl">
+    <title lang="es">Warcraft: El Primer Encuentro de Dos Mundos</title>
+    <desc lang="es">En esta épica aventura basada en el famoso videojuego, un humano y un orco se unen para detener el verdadero mal detrás de su guerra.</desc>
+  </programme>
+  <programme start="20260920164300 -0500" stop="20260920190000 -0500" channel="TNT_CO.co">
+    <title lang="es">Warcraft: El Primer Encuentro de Dos Mundos</title>
+    <desc lang="es">En esta épica aventura basada en el famoso videojuego, un humano y un orco se unen para detener el verdadero mal detrás de su guerra.</desc>
+  </programme>
+  <programme start="20260920180800 -0300" stop="20260920201800 -0300" channel="TNT_BR.br">
+    <title lang="pt">OS BAD BOYS</title>
+    <desc lang="pt">Um carregamento de heroína confiscada, avaliada em um milhão de dólares, foi simplesmente roubado do depósito da polícia. O sumiço das drogas pode destruir as carreiras dos dois detetivese acabar com a divisão de narcóticos do departamento de polícia de Miami. Carros velozes, uma garota e ação sem parar fazem de Os Bad Boys diversão garantida!</desc>
+  </programme>
+  <programme start="20260920183600 -0600" stop="20260920213100 -0600" channel="TNT_MX.mx">
+    <title lang="es">TROYA</title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+  </programme>
+  <programme start="20260920184800 -0400" stop="20260920220000 -0400" channel="TNT_CL.cl">
+    <title lang="es">TROYA</title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+  </programme>
+  <programme start="20260920185500 -0500" stop="20260920220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">TROYA</title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+  </programme>
+  <programme start="20260920190000 -0500" stop="20260920220000 -0500" channel="TNT_CO.co">
+    <title lang="es">TROYA</title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+  </programme>
+  <programme start="20260920190200 -0300" stop="20260920220000 -0300" channel="TNT_AR.ar">
+    <title lang="es">TROYA</title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+  </programme>
+  <programme start="20260920201800 -0300" stop="20260920220200 -0300" channel="TNT_BR.br">
+    <title lang="pt">SULLY: O HERÓI DO RIO HUDSON</title>
+    <desc lang="pt">Baseado na autobiografia Highest Duty, escrita por Chesley Sullenberger e Jeffrey Zaslow, o filme mostra a história do impressionante bem-sucedido pouso no rio da cidade de Nova York no ano de 2009. O mundo entrou em estado de choque e admiração com o momento em que Capitão Chesley "Sully" Sullenberger tomou uma decisão improvável quando o avião entrou em pane: pousar sob o rio Hudson, adjacente a Manhattan, seis minutos após decolar do Aeroporto LaGuardia. A atitude quase improvável salvou a vida de 155 pessoas, sendo 150 passageiros e cinco tripulantes. Mesmo se tornando um herói nacional, Sully não escapou de uma investigação rigorosa, coordenada pela agência de regulação aérea nos Estados Unidos, para verificar as causas do acidente e até mesmo se o capitão tomou a melhor decisão.</desc>
+  </programme>
+  <programme start="20260920213100 -0600" stop="20260920232900 -0600" channel="TNT_MX.mx">
+    <title lang="es">COMO AGUA PARA CHOCOLATE</title>
+    <desc lang="es">Historia sobre cómo una mujer se sobrepone a pérdidas, traiciones y un legado familiar para poder encontrar su destino junto al hombre que ama.</desc>
+  </programme>
+  <programme start="20260920220000 -0300" stop="20260921001700 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL JUSTICIERO 2</title>
+    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
+  </programme>
+  <programme start="20260920220000 -0400" stop="20260921001900 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL JUSTICIERO 2</title>
+    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
+  </programme>
+  <programme start="20260920220000 -0500" stop="20260921001800 -0500" channel="TNT_CO.co">
+    <title lang="es">EL JUSTICIERO 2</title>
+    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
+  </programme>
+  <programme start="20260920220000 -0500" stop="20260921001700 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL JUSTICIERO 2</title>
+    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
+  </programme>
+  <programme start="20260920220200 -0300" stop="20260921001300 -0300" channel="TNT_BR.br">
+    <title lang="pt">O PROTETOR 2</title>
+    <desc lang="pt">O Protetor 2 conta a história de Robert McCall (Denzel Washington), um homem que agora trabalha como motorista e ajuda as pessoas que enfrentam dificuldades decorrentes de injustiças, em Massachusetts, Estados Unidos. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</desc>
+  </programme>
+  <programme start="20260920232900 -0600" stop="20260921010800 -0600" channel="TNT_MX.mx">
+    <title lang="es">DESTINO FINAL</title>
+    <desc lang="es">A bordo de un avión prestes a partir rumbo a Francia, Alex tiene una premonición y es retirado junto a algunos amigos. Enseguida, todos ven la aeronave explotar en el aire, matando a todos los pasajeros. Misteriosamente, aquellos que se separaron del grupo van muriendo uno a uno.</desc>
+  </programme>
+  <programme start="20260921001300 -0300" stop="20260921025300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TRÓIA</title>
+    <desc lang="pt">Inspirado no poema A Ilíada, de Homero, este drama épico narra uma batalha sangrenta que durou mais de uma década e teve início quando o príncipe Paris (Orlando Bloom), de Tróia, roubou Helena (Diane Kruger), a rainha de Esparta, de seu marido, Menelaus. Inconformado, o rei pede ajuda ao seu irmão, o ambicioso Agamemnon, que vê em um combate contra Tróia a oportunidade de expandir seu império. Caberá a Hector, o filho mais velho do rei Priam (Peter OToole), de Tróia, derrotar o até então invencível guerreiro Aquiles (Brad Pitt), que luta a favor dos invasores gregos. O diretor Wolfgang Petersen recria a história com poderosos exércitos e navios de guerra, além do mítico Cavalo de Tróia, que define o desfecho do combate.</desc>
+  </programme>
+  <programme start="20260921001700 -0300" stop="20260921020300 -0300" channel="TNT_AR.ar">
+    <title lang="es">DESTINO FINAL</title>
+    <desc lang="es">A bordo de un avión prestes a partir rumbo a Francia, Alex tiene una premonición y es retirado junto a algunos amigos. Enseguida, todos ven la aeronave explotar en el aire, matando a todos los pasajeros. Misteriosamente, aquellos que se separaron del grupo van muriendo uno a uno.</desc>
+  </programme>
+  <programme start="20260921001700 -0500" stop="20260921015700 -0500" channel="TNT_PAN.co">
+    <title lang="es">DESTINO FINAL</title>
+    <desc lang="es">A bordo de un avión prestes a partir rumbo a Francia, Alex tiene una premonición y es retirado junto a algunos amigos. Enseguida, todos ven la aeronave explotar en el aire, matando a todos los pasajeros. Misteriosamente, aquellos que se separaron del grupo van muriendo uno a uno.</desc>
+  </programme>
+  <programme start="20260921001800 -0500" stop="20260921020000 -0500" channel="TNT_CO.co">
+    <title lang="es">DESTINO FINAL</title>
+    <desc lang="es">A bordo de un avión prestes a partir rumbo a Francia, Alex tiene una premonición y es retirado junto a algunos amigos. Enseguida, todos ven la aeronave explotar en el aire, matando a todos los pasajeros. Misteriosamente, aquellos que se separaron del grupo van muriendo uno a uno.</desc>
+  </programme>
+  <programme start="20260921001900 -0400" stop="20260921020300 -0400" channel="TNT_CL.cl">
+    <title lang="es">DESTINO FINAL</title>
+    <desc lang="es">A bordo de un avión prestes a partir rumbo a Francia, Alex tiene una premonición y es retirado junto a algunos amigos. Enseguida, todos ven la aeronave explotar en el aire, matando a todos los pasajeros. Misteriosamente, aquellos que se separaron del grupo van muriendo uno a uno.</desc>
+  </programme>
+  <programme start="20260921010800 -0600" stop="20260921024500 -0600" channel="TNT_MX.mx">
+    <title lang="es">MI NOVIA DE MENTIRA</title>
+    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
+  </programme>
+  <programme start="20260921015700 -0500" stop="20260921033300 -0500" channel="TNT_PAN.co">
+    <title lang="es">MI NOVIA DE MENTIRA</title>
+    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
+  </programme>
+  <programme start="20260921020000 -0500" stop="20260921033400 -0500" channel="TNT_CO.co">
+    <title lang="es">MI NOVIA DE MENTIRA</title>
+    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
+  </programme>
+  <programme start="20260921020300 -0300" stop="20260921033600 -0300" channel="TNT_AR.ar">
+    <title lang="es">MI NOVIA DE MENTIRA</title>
+    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
+  </programme>
+  <programme start="20260921020300 -0400" stop="20260921034100 -0400" channel="TNT_CL.cl">
+    <title lang="es">MI NOVIA DE MENTIRA</title>
+    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
+  </programme>
+  <programme start="20260921024500 -0600" stop="20260921041300 -0600" channel="TNT_MX.mx">
+    <title lang="es">Young Hearts</title>
+  </programme>
+  <programme start="20260921025300 -0300" stop="20260921044700 -0300" channel="TNT_BR.br">
+    <title lang="pt">Warcraft - O Primeiro Encontro de Dois Mundos</title>
+    <desc lang="pt">Uma espetacular aventura de fantasia repleta de ação baseada no mundialmente famoso jogo de videogame. O pacífico reino de Azeroth está à beira da guerra quando sua civilização enfrenta uma temível raça de invasores: guerreiros orcs que fogem de seu lar moribundo para colonizar outros mundos. Quando um portal se abre para conectar esses dois mundos, um exército enfrenta a destruição e o outro a extinção. De lados opostos, um humano e um orc embarcam em uma rota de colisão que decidirá o destino de sua família, seu povo e seu lar.</desc>
+  </programme>
+  <programme start="20260921033300 -0500" stop="20260921045800 -0500" channel="TNT_PAN.co">
+    <title lang="es">Young Hearts</title>
+  </programme>
+  <programme start="20260921033400 -0500" stop="20260921045900 -0500" channel="TNT_CO.co">
+    <title lang="es">Young Hearts</title>
+  </programme>
+  <programme start="20260921033600 -0300" stop="20260921050000 -0300" channel="TNT_AR.ar">
+    <title lang="es">Young Hearts</title>
+  </programme>
+  <programme start="20260921034100 -0400" stop="20260921050500 -0400" channel="TNT_CL.cl">
+    <title lang="es">Young Hearts</title>
+  </programme>
+  <programme start="20260921041300 -0600" stop="20260921054400 -0600" channel="TNT_MX.mx">
+    <title lang="es">STARDOG Y TURBOCAT</title>
+    <desc lang="es">Felix, el gato justiciero, y Buddy, el perro leal, viajan por el espacio para encontrar al dueño de Buddy. En el camino, descubren el poder de la amistad y sus superpoderes internos.</desc>
+  </programme>
+  <programme start="20260921044700 -0300" stop="20260921052200 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20260921045800 -0500" stop="20260921053200 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260921045900 -0500" stop="20260921053500 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260921050000 -0300" stop="20260921053500 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260921050500 -0400" stop="20260921054000 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20260921052200 -0300" stop="20260921060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20260921053200 -0500" stop="20260921054200 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921053500 -0300" stop="20260921054700 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921053500 -0500" stop="20260921055000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921054000 -0400" stop="20260921055400 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921054200 -0500" stop="20260921055400 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921054400 -0600" stop="20260921060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921054700 -0300" stop="20260921060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921055000 -0500" stop="20260921060000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20260921055400 -0400" stop="20260921055600 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260921055400 -0500" stop="20260921055700 -0500" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260921055600 -0400" stop="20260921060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20260921055700 -0500" stop="20260921060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
 </tv>
