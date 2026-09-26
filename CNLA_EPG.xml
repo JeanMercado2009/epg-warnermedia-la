@@ -6,229 +6,41 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260910202700 -0500" stop="20260910203800 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Por fin conocemos la verdadera fuente del sentido del humor ridículo de los Titanes: ¡la pizza!</desc>
-  </programme>
-  <programme start="20260910203800 -0500" stop="20260910205100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Cuando Raven insiste que es en parte amable y en parte malvada, Trigon le lanza una maldición que solamente le permite ser amable, con la idea de atraerla hacia el lado de la maldad.</desc>
-  </programme>
-  <programme start="20260910205100 -0500" stop="20260910210500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-  </programme>
-  <programme start="20260910210500 -0500" stop="20260910211600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-  </programme>
-  <programme start="20260910211600 -0500" stop="20260910212600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Cyborg y Chico Bestia contratan a un payaso que no cumple con las expectativas.</desc>
-  </programme>
-  <programme start="20260910212600 -0500" stop="20260910213100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Krypto Salva el Día</title>
-  </programme>
-  <programme start="20260910213100 -0500" stop="20260910214500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Cuando los titanes reemplazan el sofá por una cinta para correr, Cyborg y Chico Bestia deben buscar orientación en el espíritu del sofá.</desc>
-  </programme>
-  <programme start="20260910214500 -0500" stop="20260910215600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Robin trata de destruir a algunos burlones sinsontes inoportunos, pero regresan más grandes, más fuertes y listos para burlarse.</desc>
-  </programme>
-  <programme start="20260910215600 -0500" stop="20260910220700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Para dejar atrás su pasado avergonzante, Jake necesita la ayuda de su hija Charlie para ganar un torneo subterráneo de Guerra de Cartas.</desc>
-  </programme>
-  <programme start="20260910220700 -0500" stop="20260910222000 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Finn se lleva a un grupo de jóvenes en riesgo de Dulce Reino a un campamento que jamás olvidarán.</desc>
-  </programme>
-  <programme start="20260910222000 -0500" stop="20260910223200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Jake arma el emparedado más delicioso del mundo, pero cuando Magic Man se lo roba, Finn debe desafiar las leyes del tiempo y el espacio para recuperar la creación de Jake.</desc>
-  </programme>
-  <programme start="20260910223000 -0300" stop="20260910224100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">APENAS UM SHOW</title>
-    <sub-title lang="pt">OPERAÇÃO TAPA-OUVIDO</sub-title>
-    <desc lang="pt">Mordecai e Rigby querem evitar detalhes antecipados de sua série favorita.</desc>
-  </programme>
-  <programme start="20260910223200 -0500" stop="20260910224500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Bajo el cuidado de Dulce Princesa, Limoncito se aburre y por eso se fuga. Se oculta en un barco pirata y zarpa hacia la aventura más grande de su vida.</desc>
-  </programme>
-  <programme start="20260910224100 -0300" stop="20260910225300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">APENAS UM SHOW</title>
-    <sub-title lang="pt">LÁ NO TOPO</sub-title>
-    <desc lang="pt">Quando Saltitão mata Rigby em uma queda de braço por causa do seu ciúme de McHooligans, ele terá que derrotar a Morte em uma competição para trazer Rigby de volta. Mas faz algumas trapaças no processo.</desc>
-  </programme>
-  <programme start="20260910224500 -0500" stop="20260910225700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">El barco de Limoncito se estrella en una isla desierta, donde conoce a un sujeto misterioso llamado Phlannel Boxingday. Lemonhope se convierte en el aprendiz de Phlannel, pero rápidamente se da cuenta de que debe realizar su destino y salvar a sus hermanos limonosos del retorcido Limonagrio.</desc>
-  </programme>
-  <programme start="20260910225300 -0300" stop="20260910230500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">APENAS UM SHOW</title>
-    <sub-title lang="pt">OVOCELENTE</sub-title>
-    <desc lang="pt">Mordecai e Rigby estão assistindo a um programa de ação na TV quando Benson lhes pede para voltar ao trabalho. Mas, antes de desligar o aparelho, eles veem um comercial sobre uma promoção de café da manhã. Quem conseguir comer um omelete inteiro feito com doze ovos em menos de uma hora ganhará um boné com a inscrição "Sou Ovocelente".</desc>
-  </programme>
-  <programme start="20260910225700 -0500" stop="20260910230800 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Cuando Benson no gana el premio de Gerente del Parque del Año, los chicos quieren hacerlo sentir como un ganador.</desc>
-  </programme>
-  <programme start="20260910230500 -0300" stop="20260910231700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">O GRANDE SHOW</sub-title>
-    <desc lang="pt">Steven faz um documentário sobre uma banda local que alcança o sucesso.</desc>
-  </programme>
-  <programme start="20260910230800 -0500" stop="20260910232200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Rigby se gana una cama tamaño king size y arroja su cama de trampolín a la basura. Pero cuando se da cuenta de que no puede dormir sin su trampolín, debe atravesar un intrincado basural para encontrarlo.</desc>
-  </programme>
-  <programme start="20260910231700 -0300" stop="20260910232900 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">O CANHÃO DE LASER</sub-title>
-    <desc lang="pt">Quando um cometa mágico vem em direção a Beach City, Steven deverá revirar a coleção de quinquilharias do seu pai para encontrar uma arma capaz de salvar a cidade.</desc>
-  </programme>
-  <programme start="20260910232200 -0500" stop="20260910233300 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Mordecai, Rigby, Musculoso y Fantasmín quieren ser miembros VIP de Quezitos.</desc>
-  </programme>
-  <programme start="20260910232900 -0300" stop="20260910234000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">ESPERA NO CARRO</sub-title>
-    <desc lang="pt">Enquanto Mari resolve pendências na rua, Clarêncio espera no carro e se esforça para vencer o tédio.</desc>
-  </programme>
-  <programme start="20260910233300 -0500" stop="20260910234600 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Mordecai y Rigby encuentran cuatro patitos mientras limpian la fuente del parque. Al no encontrar nadie para hacerse cargo de los bebés, deciden criarlos ellos mismos.</desc>
-  </programme>
-  <programme start="20260910234000 -0300" stop="20260910235200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">AMIGOS DE FAXINA</sub-title>
-    <desc lang="pt">Como uma punição por ele ter feito bagunça em casa, a mãe de Belson o obriga a limpar tudo e empresta sua empregada para Mary e Clarêncio. Envergonhados pela casa bagunçada, mãe e filho correm para limpá-la antes que a empregada chegue.</desc>
-  </programme>
-  <programme start="20260910234600 -0500" stop="20260910235800 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Un rayo cae sobre Musculoso y Fantasmano y ninguno de ellos puede recordar al otro.</desc>
-  </programme>
-  <programme start="20260910235200 -0300" stop="20260911000400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">DIA DOS DESAFIOS</sub-title>
-    <desc lang="pt">Quando Jeff sai de férias, Sumo e Clarêncio começam a jogar ovos um no outro numa série de apostas extremas e absurdas. Mas será que algum deles decidirá parar antes de as coisas irem longe demais?</desc>
-  </programme>
-  <programme start="20260910235800 -0500" stop="20260911000900 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Charlie conoce a una criatura igual a él llamada Ralph. A Charlie le encanta tener un amigo nuevo, pero los Osos piensan que Ralph no trae nada bueno entre manos.</desc>
-  </programme>
-  <programme start="20260911000400 -0300" stop="20260911001500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">RALPH</sub-title>
-    <desc lang="pt">Charlie conhece uma criatura igual a ele chamada Ralph. Charlie adora seu novo amigo, já os ursos acham que Ralph não tem as melhores intenções.</desc>
-  </programme>
-  <programme start="20260911000900 -0500" stop="20260911002200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Panda comienza a sufrir de fobia a los gérmenes y decide vivir el resto de su vida en una burbuja.</desc>
-  </programme>
-  <programme start="20260911001500 -0300" stop="20260911002700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">BOLHA</sub-title>
-    <desc lang="pt">Panda vira um germofóbico e decide passar o resto de sua vida dentro de uma bolha.</desc>
-  </programme>
-  <programme start="20260911002200 -0500" stop="20260911003300 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">El profesor de Chloe es demasiado malvado como para concederle una reunión para discutir sus calificaciones bajas. Los Osos toman el asunto en sus propias manos para ayudar, lo cual le trae más problemas a Chloe.</desc>
-  </programme>
-  <programme start="20260911002700 -0300" stop="20260911003900 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">PROFESSOR LAMPWICK</sub-title>
-    <desc lang="pt">O professor de Chloe é chato demais para conversar com ela sobre sua nota baixa. Os ursos decidem interferir, mas acabam causando mais problemas.</desc>
-  </programme>
   <programme start="20260911003300 -0500" stop="20260911004700 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Para participar de un exitoso programa para niños, Nom Nom debe superar con éxito la prueba de manejo de la ira, con Pardo como compañero.</desc>
-  </programme>
-  <programme start="20260911003900 -0300" stop="20260911005100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">CONTROLANDO A RAIVA</sub-title>
-    <desc lang="pt">Para conseguir participar de uma atração infantil de sucesso, Nom Nom deverá completar um programa de controle da ira, com Pardo como seu parceiro.</desc>
   </programme>
   <programme start="20260911004700 -0500" stop="20260911005800 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">¿Viste cuando tienes un amigo que no entiende una indirecta? Ese es Charlie, Pie Grande. Los Osos lo conocen cuando Charlie se inscribe en un sitio web para personas que comparten su casa y se instala un fin de semana con los Osos. Charlie es el peor invitado posible para los Osos y prácticamente destruye la casa.</desc>
   </programme>
-  <programme start="20260911005100 -0300" stop="20260911010200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">CHARLIE</sub-title>
-    <desc lang="pt">Sabe aquele amigo chato que não se toca? Esse é o Charlie, o Pé Grande. Os ursos o conhecem quando ele se inscreve num site para passar um fim de semana com os três. Não pode existir visita mais inconveniente do que o Charlie, que quase destrói a casa toda.</desc>
-  </programme>
   <programme start="20260911005800 -0500" stop="20260911011000 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Gumball y Darwin tratan de alejarse de Internet, pero terminan cayéndose por el agujero de transmisión por Internet de Elmore.</desc>
-  </programme>
-  <programme start="20260911010200 -0300" stop="20260911011400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">OS VÍDEOS</sub-title>
-    <desc lang="pt">Gumball e Darwin tentam se desligar da internet, mas acabam caindo num buraco de streaming.</desc>
   </programme>
   <programme start="20260911011000 -0500" stop="20260911012100 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Gumball y Darwin intentan enseñarle a Sussie a ser más normal.</desc>
   </programme>
-  <programme start="20260911011400 -0300" stop="20260911012500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A ESQUISITA</sub-title>
-    <desc lang="pt">Gumball e Darwin tentam ensinar Sussie a ser mais normal.</desc>
-  </programme>
   <programme start="20260911012100 -0500" stop="20260911013600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Los Watterson transforman su casa en una prisión.</desc>
-  </programme>
-  <programme start="20260911012500 -0300" stop="20260911013700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A LIBERDADE</sub-title>
-    <desc lang="pt">Os Wattersons transformam sua casa na Casa Grande.</desc>
   </programme>
   <programme start="20260911013600 -0500" stop="20260911014700 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Los Watterson se sorprenden cuando descubren que sus acciones pasadas tienen consecuencias.</desc>
   </programme>
-  <programme start="20260911013700 -0300" stop="20260911015000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O MENU</sub-title>
-    <desc lang="pt">Quando Ricardo ouve a lenda urbana sobre um hambúrguer da felicidade, ele fará de tudo para devorá-lo.</desc>
-  </programme>
   <programme start="20260911014700 -0500" stop="20260911015900 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Cuando Richard se entera de la leyenda urbana de una hamburguesa secreta de Joyful Burger, nada lo detendrá en su intento de devorarla.</desc>
-  </programme>
-  <programme start="20260911015000 -0300" stop="20260911020100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O CARA</sub-title>
-    <desc lang="pt">Anaís fez um novo amigo. Gumball e Darwin imediatamente presumem que deve haver algo de muito errado com ele.</desc>
   </programme>
   <programme start="20260911015900 -0500" stop="20260911021300 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Anaís se hace un nuevo amigo, así que Gumball y Darwin suponen de inmediato que algo raro oculta él.</desc>
   </programme>
-  <programme start="20260911020100 -0300" stop="20260911021300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A ALEGRIA</sub-title>
-    <desc lang="pt">Quando Pai Ricardo dá um abraço especial em Gumball e Darwin, os dois vão para a escola com uma espécie virulenta de alegria. Senhorita Símio identifica rapidamente a terrível doença, que logo contagia as outras crianças. Agora, ela deverá encontrar uma cura antes que seja tarde demais. Antes que ela mesma seja contaminada pela... alegria.</desc>
-  </programme>
-  <programme start="20260911021300 -0300" stop="20260911022500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A INTELIGÊNCIA</sub-title>
-    <desc lang="pt">A tecnologia alcança a inteligência humana e depois se torna uma bagunça ao adquirir também as nossas falhas.</desc>
-  </programme>
   <programme start="20260911021300 -0500" stop="20260911022500 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Después de que papá les da a Gumball y a Darwin un abrazo especial, los niños se van a la escuela llenos de una virulenta cepa de alegría.  La señorita Simian detecta enseguida la terrible afección, que pronto se propaga entre los demás niños.  Y tiene que encontrar la cura antes de que sea tarde y ella misma caiga presa de la... alegría.</desc>
-  </programme>
-  <programme start="20260911022500 -0300" stop="20260911023600 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">PODERIA TER SIDO INCRÍVEL</sub-title>
-    <desc lang="pt">As Gems fazem uma viagem à lua.</desc>
   </programme>
   <programme start="20260911022500 -0500" stop="20260911023600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
